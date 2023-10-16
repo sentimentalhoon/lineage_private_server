@@ -1,0 +1,50 @@
+3월 07, 2012 9:05:11 오전 l1j.server.server.ObjectIdFactory loadState
+정보: 현재의 오브젝트 ID: 283901445
+3월 07, 2012 9:05:11 오전 l1j.server.server.datatables.CheckWarTime loadCheckWarTimeFromDatabase
+심각: Table 'jowooserver.checkwartime' doesn't exist
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'jowooserver.checkwartime' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3515)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3447)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1951)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2101)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2554)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1761)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1912)
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeQuery(NewProxyPreparedStatement.java:76)
+	at l1j.server.server.datatables.CheckWarTime.loadCheckWarTimeFromDatabase(Unknown Source)
+	at l1j.server.server.datatables.CheckWarTime.<init>(Unknown Source)
+	at l1j.server.server.datatables.CheckWarTime.getInstance(Unknown Source)
+	at l1j.server.server.TimeController.WarTimeController.<init>(Unknown Source)
+	at l1j.server.server.TimeController.WarTimeController.getInstance(Unknown Source)
+	at server.GameServer.initialize(Unknown Source)
+	at server.Server.startGameServer(Unknown Source)
+	at server.Server.start(Unknown Source)
+	at server.manager.eva$66.run(Unknown Source)
+
+3월 07, 2012 9:05:12 오전 l1j.server.server.datatables.NpcTable loadNpcData
+심각: Column 'title' not found.
+java.sql.SQLException: Column 'title' not found.
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1055)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:926)
+	at com.mysql.jdbc.ResultSetImpl.findColumn(ResultSetImpl.java:1136)
+	at com.mysql.jdbc.ResultSetImpl.getString(ResultSetImpl.java:5531)
+	at com.mchange.v2.c3p0.impl.NewProxyResultSet.getString(NewProxyResultSet.java:3342)
+	at l1j.server.server.datatables.NpcTable.loadNpcData(Unknown Source)
+	at l1j.server.server.datatables.NpcTable.<init>(Unknown Source)
+	at l1j.server.server.datatables.NpcTable.getInstance(Unknown Source)
+	at server.GameServer.initialize(Unknown Source)
+	at server.Server.startGameServer(Unknown Source)
+	at server.Server.start(Unknown Source)
+	at server.manager.eva$66.run(Unknown Source)
+
+3월 07, 2012 9:05:12 오전 l1j.server.server.datatables.SpawnTable fillSpawnTable
+경고: mob data for id:45008 missing in npc table

@@ -1,0 +1,83 @@
+4월 11, 2012 10:48:18 오전 l1j.server.server.ObjectIdFactory loadState
+정보: 현재의 오브젝트 ID: 291268246
+4월 11, 2012 10:48:22 오전 l1j.server.server.datatables.NpcShopTable loadShops
+심각: Column 'attrenchantlevel' not found.
+java.sql.SQLException: Column 'attrenchantlevel' not found.
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1055)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:926)
+	at com.mysql.jdbc.ResultSetImpl.findColumn(ResultSetImpl.java:1136)
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2777)
+	at com.mchange.v2.c3p0.impl.NewProxyResultSet.getInt(NewProxyResultSet.java:2573)
+	at l1j.server.server.datatables.NpcShopTable.loadShop(Unknown Source)
+	at l1j.server.server.datatables.NpcShopTable.loadShops(Unknown Source)
+	at l1j.server.server.datatables.NpcShopTable.<init>(Unknown Source)
+	at l1j.server.server.datatables.NpcShopTable.getInstance(Unknown Source)
+	at server.GameServer.initialize(Unknown Source)
+	at server.Server.startGameServer(Unknown Source)
+	at server.Server.start(Unknown Source)
+	at server.manager.eva$66.run(Unknown Source)
+
+4월 11, 2012 10:48:22 오전 l1j.server.server.datatables.RobotTable selectRobotTeleportList
+심각: Table 'sjs.robot_teleport_list' doesn't exist
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'sjs.robot_teleport_list' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3515)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3447)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1951)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2101)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2554)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1761)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1912)
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeQuery(NewProxyPreparedStatement.java:76)
+	at l1j.server.server.datatables.RobotTable.selectRobotTeleportList(Unknown Source)
+	at l1j.server.server.datatables.RobotTable.<init>(Unknown Source)
+	at l1j.server.server.datatables.RobotTable.getInstance(Unknown Source)
+	at server.GameServer.initialize(Unknown Source)
+	at server.Server.startGameServer(Unknown Source)
+	at server.Server.start(Unknown Source)
+	at server.manager.eva$66.run(Unknown Source)
+
+4월 11, 2012 10:48:25 오전 l1j.server.server.datatables.SkillsTable RestoreSkills
+심각: error while creating skills table
+java.sql.SQLException: Column 'can_cast_with_invis' not found.
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1055)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:926)
+	at com.mysql.jdbc.ResultSetImpl.findColumn(ResultSetImpl.java:1136)
+	at com.mysql.jdbc.ResultSetImpl.getBoolean(ResultSetImpl.java:1744)
+	at com.mchange.v2.c3p0.impl.NewProxyResultSet.getBoolean(NewProxyResultSet.java:2391)
+	at l1j.server.server.datatables.SkillsTable.FillSkillsTable(Unknown Source)
+	at l1j.server.server.datatables.SkillsTable.RestoreSkills(Unknown Source)
+	at l1j.server.server.datatables.SkillsTable.<init>(Unknown Source)
+	at l1j.server.server.datatables.SkillsTable.getInstance(Unknown Source)
+	at server.GameServer.initialize(Unknown Source)
+	at server.Server.startGameServer(Unknown Source)
+	at server.Server.start(Unknown Source)
+	at server.manager.eva$66.run(Unknown Source)
+
+4월 11, 2012 10:48:25 오전 l1j.server.server.datatables.ShopTable loadShops
+심각: Column 'enchant' not found.
+java.sql.SQLException: Column 'enchant' not found.
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1055)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:926)
+	at com.mysql.jdbc.ResultSetImpl.findColumn(ResultSetImpl.java:1136)
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2777)
+	at com.mchange.v2.c3p0.impl.NewProxyResultSet.getInt(NewProxyResultSet.java:2573)
+	at l1j.server.server.datatables.ShopTable.loadShop(Unknown Source)
+	at l1j.server.server.datatables.ShopTable.loadShops(Unknown Source)
+	at l1j.server.server.datatables.ShopTable.<init>(Unknown Source)
+	at l1j.server.server.datatables.ShopTable.getInstance(Unknown Source)
+	at server.GameServer.initialize(Unknown Source)
+	at server.Server.startGameServer(Unknown Source)
+	at server.Server.start(Unknown Source)
+	at server.manager.eva$66.run(Unknown Source)
+

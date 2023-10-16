@@ -1,0 +1,2129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TreasureBoxList>
+
+	<!--Type = SPECIFIC의 경우 아이템 리스트의 모든 것이 손에 들어 온다. 이 경우 Chance는 지정하지 않는다. -->
+	<!--Type = RANDOM의 경우 아이템 리스트중에서 랜덤하게 1개가 손에 들어 온다. Chance를 반드시 지정해야 한다. -->
+	<!--Chance의 단위는 소수점도 가능하다. 반드시 합계가 100 이 되도록 설정한다. -->
+<!-- 방어구 7셋 -->
+  <TreasureBox Type="SPECIFIC" ItemId="5000183">
+    <Item ItemId="120011" Count="1" Enchant="7" Is_Id="true" /> <!-- 마법 방어 투구 -->
+    <Item ItemId="120056" Count="1" Enchant="7"  Is_Id="true" /> <!-- 마법 망토 -->
+    <Item ItemId="20200" Count="1" Enchant="7" Is_Id="true" /> <!-- 마수군왕의 부츠 -->
+    <Item ItemId="20187" Count="1" Enchant="7" Is_Id="true" /> <!-- 파워글러브 -->
+    <Item ItemId="20178" Count="1" Enchant="7" Is_Id="true" /> <!-- 암살군왕의 장갑 -->
+    <Item ItemId="490015" Count="1" Enchant="7" Is_Id="true" /> <!-- 스턴 특제티 -->
+    <Item ItemId="420002" Count="1" Enchant="0" Is_Id="true" /> <!-- 크리스탈 가더 -->
+    <Item ItemId="420000" Count="1" Enchant="0" Is_Id="true" /> <!-- 고대 명궁의 가더 -->
+    <Item ItemId="420003" Count="1" Enchant="0" Is_Id="true" /> <!-- 고대 투사의 가더 -->
+    <Item ItemId="20190" Count="1" Enchant="0" Is_Id="true" /> <!-- 혼돈의 손길 -->
+  </TreasureBox>
+        <!-- 8방어구 셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000184">
+    <Item ItemId="120011" Count="1" Enchant="8" Is_Id="true" /> <!-- 마법 방어 투구 -->
+    <Item ItemId="120056" Count="1" Enchant="8" Is_Id="true" /> <!-- 마법 망토 -->
+    <Item ItemId="20200" Count="1" Enchant="8" Is_Id="true" /> <!-- 마수군왕의 부츠 -->
+    <Item ItemId="20187" Count="1" Enchant="8" Is_Id="true" /> <!-- 파워글러브 -->
+    <Item ItemId="20178" Count="1" Enchant="8" Is_Id="true" /> <!-- 암살군왕의 장갑 -->
+    <Item ItemId="490015" Count="1" Enchant="8" Is_Id="true" /> <!-- 스턴 특제티 -->
+    <Item ItemId="420104" Count="1" Enchant="5" Is_Id="true" /> <!-- 파푸리온의 완력 -->
+    <Item ItemId="420105" Count="1" Enchant="5" Is_Id="true" /> <!-- 파푸리온의 인내력 -->
+    <Item ItemId="420002" Count="1" Enchant="3" Is_Id="true" /> <!-- 크리스탈 가더 -->
+    <Item ItemId="420000" Count="1" Enchant="3" Is_Id="true" /> <!-- 고대 명궁의 가더 -->
+    <Item ItemId="420003" Count="1" Enchant="3" Is_Id="true" /> <!-- 고대 투사의 가더 -->
+    <Item ItemId="20190" Count="1" Enchant="3" Is_Id="true" /> <!-- 혼돈의 손길 -->
+  </TreasureBox>
+      <!-- 9방어구 셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000185">
+    <Item ItemId="120011" Count="1" Enchant="9" Is_Id="true" /> <!-- 마법 방어 투구 -->
+    <Item ItemId="120056" Count="1" Enchant="9" Is_Id="true" /> <!-- 마법 망토 -->
+    <Item ItemId="20200" Count="1" Enchant="9" Is_Id="true" /> <!-- 마수군왕의 부츠 -->
+    <Item ItemId="20187" Count="1" Enchant="9" Is_Id="true" /> <!-- 파워글러브 -->
+    <Item ItemId="20178" Count="1" Enchant="9" Is_Id="true" /> <!-- 암살군왕의 장갑 -->
+    <Item ItemId="490015" Count="1" Enchant="9" Is_Id="true" /> <!-- 스턴 특제티 -->
+    <Item ItemId="420104" Count="1" Enchant="7" Is_Id="true" /> <!-- 파푸리온의 완력 -->
+    <Item ItemId="420105" Count="1" Enchant="7" Is_Id="true" /> <!-- 파푸리온의 인내력 -->
+    <Item ItemId="420002" Count="1" Enchant="5" Is_Id="true" /> <!-- 크리스탈 가더 -->
+    <Item ItemId="420000" Count="1" Enchant="5" Is_Id="true" /> <!-- 고대 명궁의 가더 -->
+    <Item ItemId="420003" Count="1" Enchant="5" Is_Id="true" /> <!-- 고대 투사의 가더 -->
+    <Item ItemId="20190" Count="1" Enchant="5" Is_Id="true" /> <!-- 혼돈의 손길 -->
+  </TreasureBox>
+    <!-- 10방어구 셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000186">
+    <Item ItemId="120011" Count="1" Enchant="10" Is_Id="true" /> <!-- 마법 방어 투구 -->
+    <Item ItemId="120056" Count="1" Enchant="10" Is_Id="true" /> <!-- 마법 망토 -->
+    <Item ItemId="20200" Count="1" Enchant="10" Is_Id="true" /> <!-- 마수군왕의 부츠 -->
+    <Item ItemId="20187" Count="1" Enchant="10" Is_Id="true" /> <!-- 파워글러브 -->
+    <Item ItemId="20178" Count="1" Enchant="10" Is_Id="true" /> <!-- 암살군왕의 장갑 -->
+    <Item ItemId="490015" Count="1" Enchant="10" Is_Id="true" /> <!-- 스턴 특제티 -->
+    <Item ItemId="420104" Count="1" Enchant="7" Is_Id="true" /> <!-- 파푸리온의 완력 -->
+    <Item ItemId="420105" Count="1" Enchant="7" Is_Id="true" /> <!-- 파푸리온의 인내력 -->
+    <Item ItemId="420002" Count="1" Enchant="5" Is_Id="true" /> <!-- 크리스탈 가더 -->
+    <Item ItemId="420000" Count="1" Enchant="5" Is_Id="true" /> <!-- 고대 명궁의 가더 -->
+    <Item ItemId="420003" Count="1" Enchant="5" Is_Id="true" /> <!-- 고대 투사의 가더 -->
+    <Item ItemId="20190" Count="1" Enchant="5" Is_Id="true" /> <!-- 혼돈의 손길 -->
+  </TreasureBox>
+      <!-- 악세 6공성셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000187">
+    <Item ItemId="20264" Count="1" Enchant="6" Is_Id="true" /> <!-- 완력의 목걸이 -->
+    <Item ItemId="423020" Count="1" Enchant="6" Is_Id="true" /> <!-- 11주년 귀걸이 -->
+    <Item ItemId="425103" Count="1" Enchant="6" Is_Id="true" /> <!-- 신뢰 반지 -->
+    <Item ItemId="425103" Count="1" Enchant="6" Is_Id="true" /> <!-- 신뢰 반지 -->
+    <Item ItemId="20309" Count="1" Enchant="6" Is_Id="true" /> <!-- 빛나는 신체의 벨트 -->
+  </TreasureBox>
+        <!-- 악세 6명중셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000188">
+    <Item ItemId="20256" Count="1" Enchant="6" Is_Id="true" /> <!-- 민첩의 목걸이 -->
+    <Item ItemId="21018" Count="1" Enchant="6" Is_Id="true" /> <!-- 헬리오참 귀걸이 -->
+    <Item ItemId="20280" Count="1" Enchant="6" Is_Id="true" /> <!-- 멸마의 반지 -->
+    <Item ItemId="20280" Count="1" Enchant="6" Is_Id="true" /> <!-- 멸마의 반지 -->
+    <Item ItemId="20312" Count="1" Enchant="6" Is_Id="true" /> <!-- 신체의 벨트 -->
+  </TreasureBox>
+      <!-- 악세 6주술셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000189">
+    <Item ItemId="21050" Count="1" Enchant="6" Is_Id="true" /> <!-- 수리된 목걸이 -->
+    <Item ItemId="21049" Count="1" Enchant="6" Is_Id="true" /> <!-- 수리된 귀걸이 -->
+    <Item ItemId="20303" Count="1" Enchant="6" Is_Id="true" /> <!-- 항마의 반지 -->
+    <Item ItemId="20303" Count="1" Enchant="6" Is_Id="true" /> <!-- 항마의 반지 -->
+    <Item ItemId="20306" Count="1" Enchant="6" Is_Id="true" /> <!-- 낡은 신체의 벨트 -->
+  </TreasureBox>
+        <!-- 악세 7공성셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000190">
+    <Item ItemId="20264" Count="1" Enchant="7" Is_Id="true" /> <!-- 완력의 목걸이 -->
+    <Item ItemId="423020" Count="1" Enchant="7" Is_Id="true" /> <!-- 11주년 귀걸이 -->
+    <Item ItemId="425103" Count="1" Enchant="7" Is_Id="true" /> <!-- 신뢰 반지 -->
+    <Item ItemId="425103" Count="1" Enchant="7" Is_Id="true" /> <!-- 신뢰 반지 -->
+    <Item ItemId="20309" Count="1" Enchant="7" Is_Id="true" /> <!-- 빛나는 신체의 벨트 -->
+  </TreasureBox>
+        <!-- 악세 7명중셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000191">
+    <Item ItemId="20256" Count="1" Enchant="7" Is_Id="true" /> <!-- 민첩의 목걸이 -->
+    <Item ItemId="21018" Count="1" Enchant="7" Is_Id="true" /> <!-- 헬리오참 귀걸이 -->
+    <Item ItemId="20280" Count="1" Enchant="7" Is_Id="true" /> <!-- 멸마의 반지 -->
+    <Item ItemId="20280" Count="1" Enchant="7" Is_Id="true" /> <!-- 멸마의 반지 -->
+    <Item ItemId="20312" Count="1" Enchant="7" Is_Id="true" /> <!-- 신체의 벨트 -->
+  </TreasureBox>
+      <!-- 악세 7주술셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000192">
+    <Item ItemId="21050" Count="1" Enchant="7" Is_Id="true" /> <!-- 수리된 목걸이 -->
+    <Item ItemId="21049" Count="1" Enchant="7" Is_Id="true" /> <!-- 수리된 귀걸이 -->
+    <Item ItemId="20303" Count="1" Enchant="7" Is_Id="true" /> <!-- 항마의 반지 -->
+    <Item ItemId="20303" Count="1" Enchant="7" Is_Id="true" /> <!-- 항마의 반지 -->
+    <Item ItemId="20306" Count="1" Enchant="7" Is_Id="true" /> <!-- 낡은 신체의 벨트 -->
+  </TreasureBox>
+        <!-- 악세 8공성셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000193">
+    <Item ItemId="20264" Count="1" Enchant="8" Is_Id="true" /> <!-- 완력의 목걸이 -->
+    <Item ItemId="423020" Count="1" Enchant="8" Is_Id="true" /> <!-- 11주년 귀걸이 -->
+    <Item ItemId="425103" Count="1" Enchant="8" Is_Id="true" /> <!-- 신뢰 반지 -->
+    <Item ItemId="425103" Count="1" Enchant="8" Is_Id="true" /> <!-- 신뢰 반지 -->
+    <Item ItemId="20309" Count="1" Enchant="8" Is_Id="true" /> <!-- 빛나는 신체의 벨트 -->
+  </TreasureBox>
+        <!-- 악세 8명중셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000194">
+    <Item ItemId="20256" Count="1" Enchant="8" Is_Id="true" /> <!-- 민첩의 목걸이 -->
+    <Item ItemId="21018" Count="1" Enchant="8" Is_Id="true" /> <!-- 헬리오참 귀걸이 -->
+    <Item ItemId="20280" Count="1" Enchant="8" Is_Id="true" /> <!-- 멸마의 반지 -->
+    <Item ItemId="20280" Count="1" Enchant="8" Is_Id="true" /> <!-- 멸마의 반지 -->
+    <Item ItemId="20312" Count="1" Enchant="8" Is_Id="true" /> <!-- 신체의 벨트 -->
+  </TreasureBox>
+      <!-- 악세 8주술셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000195">
+    <Item ItemId="21050" Count="1" Enchant="8" Is_Id="true" /> <!-- 수리된 목걸이 -->
+    <Item ItemId="21049" Count="1" Enchant="8" Is_Id="true" /> <!-- 수리된 귀걸이 -->
+    <Item ItemId="20303" Count="1" Enchant="8" Is_Id="true" /> <!-- 항마의 반지 -->
+    <Item ItemId="20303" Count="1" Enchant="8" Is_Id="true" /> <!-- 항마의 반지 -->
+    <Item ItemId="20306" Count="1" Enchant="8" Is_Id="true" /> <!-- 낡은 신체의 벨트 -->
+  </TreasureBox>
+        <!-- 악세 9공성셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000196">
+    <Item ItemId="20264" Count="1" Enchant="9" Is_Id="true" /> <!-- 완력의 목걸이 -->
+    <Item ItemId="423020" Count="1" Enchant="9" Is_Id="true" /> <!-- 11주년 귀걸이 -->
+    <Item ItemId="425103" Count="1" Enchant="9" Is_Id="true" /> <!-- 신뢰 반지 -->
+    <Item ItemId="425103" Count="1" Enchant="9" Is_Id="true" /> <!-- 신뢰 반지 -->
+    <Item ItemId="20309" Count="1" Enchant="9" Is_Id="true" /> <!-- 빛나는 신체의 벨트 -->
+  </TreasureBox>
+        <!-- 악세 9명중셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000197">
+    <Item ItemId="20256" Count="1" Enchant="9" Is_Id="true" /> <!-- 민첩의 목걸이 -->
+    <Item ItemId="21018" Count="1" Enchant="9" Is_Id="true" /> <!-- 헬리오참 귀걸이 -->
+    <Item ItemId="20280" Count="1" Enchant="9" Is_Id="true" /> <!-- 멸마의 반지 -->
+    <Item ItemId="20280" Count="1" Enchant="9" Is_Id="true" /> <!-- 멸마의 반지 -->
+    <Item ItemId="20312" Count="1" Enchant="9" Is_Id="true" /> <!-- 신체의 벨트 -->
+  </TreasureBox>
+      <!-- 악세 9주술셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000198">
+    <Item ItemId="21050" Count="1" Enchant="9" Is_Id="true" /> <!-- 수리된 목걸이 -->
+    <Item ItemId="21049" Count="1" Enchant="9" Is_Id="true" /> <!-- 수리된 귀걸이 -->
+    <Item ItemId="20303" Count="1" Enchant="9" Is_Id="true" /> <!-- 항마의 반지 -->
+    <Item ItemId="20303" Count="1" Enchant="9" Is_Id="true" /> <!-- 항마의 반지 -->
+    <Item ItemId="20306" Count="1" Enchant="9" Is_Id="true" /> <!-- 낡은 신체의 벨트 -->
+  </TreasureBox>
+
+  <!-- 기란성 점령 기념품 상자-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000218">
+    <Item ItemId="40024" Count="1000" Is_Id="true" />
+	<Item ItemId="435000" Count="5" Is_Id="true" />
+	<Item ItemId="437031" Count="5" Is_Id="true" />
+	<Item ItemId="4500172" Count="1" Is_Id="true" />
+	<Item ItemId="4500173" Count="1" Is_Id="true" />
+  </TreasureBox>
+
+    <!-- 기본 악세 지급 상자-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000220">
+    <Item ItemId="500003" Count="1" Is_Id="true" />
+    <Item ItemId="500003" Count="1" Is_Id="true" />
+    <Item ItemId="20280" Count="1" Is_Id="true" />
+	<Item ItemId="20289" Count="1" Is_Id="true" />
+	<Item ItemId="20280" Count="1" Is_Id="true" />
+	<Item ItemId="20289" Count="1" Is_Id="true" />
+	<Item ItemId="20317" Count="1" Is_Id="true" />
+	<Item ItemId="20313" Count="1" Is_Id="true" />
+	<Item ItemId="423020" Count="1" Is_Id="true" />
+	<Item ItemId="423023" Count="1" Is_Id="true" />
+	<Item ItemId="20269" Count="1" Is_Id="true" />
+  </TreasureBox>
+
+  <!--9무양 7셋-->
+  <TreasureBox Type="SPECIFIC" ItemId="5000217">
+    <Item ItemId="62" Count="1" Enchant="9" AttrEnchant="3" Is_Id="true" />
+    <Item ItemId="20011" Count="1" Enchant="7" Is_Id="true" />
+	<Item ItemId="490000" Count="1" Enchant="7" Is_Id="true" />
+	<Item ItemId="20095" Count="1" Enchant="0" Is_Id="true" />
+	 <Item ItemId="120056" Count="1" Enchant="7" Is_Id="true" />
+	 <Item ItemId="20187" Count="1" Enchant="7" Is_Id="true" />
+	 <Item ItemId="20194" Count="1" Enchant="7" Is_Id="true" />
+  </TreasureBox>
+
+  <!--카리프의 복주머니 다이아몬드-->
+  <TreasureBox Type="RANDOM" ItemId="49005">
+    <Item ItemId="40010" Count="2" Chance="21" />
+    <Item ItemId="40408" Count="2" Chance="16" />
+    <Item ItemId="40013" Count="1" Chance="12" />
+    <Item ItemId="40021" Count="1" Chance="9" />
+    <Item ItemId="40018" Count="1" Chance="8" />
+    <Item ItemId="40494" Count="5" Chance="9" />
+    <Item ItemId="40014" Count="1" Chance="5" />
+    <Item ItemId="40779" Count="1" Chance="5" />
+    <Item ItemId="40400" Count="1" Chance="5" />
+    <Item ItemId="40317" Count="1" Chance="3" />
+    <Item ItemId="40489" Count="1" Chance="5" />
+    <Item ItemId="40304" Count="1" Chance="1" />
+    <Item ItemId="40428" Count="1" Chance="1" />
+  </TreasureBox>
+
+  <!--카리프의 복주머니 루비-->
+  <TreasureBox Type="RANDOM" ItemId="49006">
+    <Item ItemId="40011" Count="2" Chance="17" />
+    <Item ItemId="40013" Count="1" Chance="14" />
+    <Item ItemId="40408" Count="2" Chance="12" />
+    <Item ItemId="40320" Count="3" Chance="10" />
+    <Item ItemId="40018" Count="1" Chance="10" />
+    <Item ItemId="40406" Count="4" Chance="5" />
+    <Item ItemId="40458" Count="1" Chance="5" />
+    <Item ItemId="40014" Count="1" Chance="5" />
+    <Item ItemId="40496" Count="2" Chance="5" />
+    <Item ItemId="40020" Count="1" Chance="5" />
+    <Item ItemId="40399" Count="1" Chance="5" />
+    <Item ItemId="40441" Count="1" Chance="5" />
+    <Item ItemId="40468" Count="1" Chance="1" />
+    <Item ItemId="40305" Count="1" Chance="1" />
+  </TreasureBox>
+
+  <!--카리프의 복주머니 사파이어-->
+  <TreasureBox Type="RANDOM" ItemId="49007">
+    <Item ItemId="40010" Count="5" Chance="15" />
+    <Item ItemId="40013" Count="2" Chance="15" />
+    <Item ItemId="40408" Count="2" Chance="15" />
+    <Item ItemId="40015" Count="2" Chance="12" />
+    <Item ItemId="40318" Count="1" Chance="8" />
+    <Item ItemId="40016" Count="1" Chance="8" />
+    <Item ItemId="40494" Count="5" Chance="6" />
+    <Item ItemId="40398" Count="1" Chance="5" />
+    <Item ItemId="40521" Count="1" Chance="3" />
+    <Item ItemId="40444" Count="1" Chance="1" />
+    <Item ItemId="40489" Count="1" Chance="5" />
+    <Item ItemId="40441" Count="1" Chance="5" />
+    <Item ItemId="40068" Count="1" Chance="1" />
+    <Item ItemId="40307" Count="1" Chance="1" />
+  </TreasureBox>
+
+  <!--카리프의 복주머니 에메랄드-->
+  <TreasureBox Type="RANDOM" ItemId="49008">
+    <Item ItemId="40010" Count="3" Chance="20" />
+    <Item ItemId="40408" Count="3" Chance="17" />
+    <Item ItemId="40508" Count="4" Chance="8" />
+    <Item ItemId="40015" Count="1" Chance="8" />
+    <Item ItemId="40012" Count="1" Chance="8" />
+    <Item ItemId="40013" Count="1" Chance="8" />
+    <Item ItemId="40458" Count="1" Chance="7" />
+    <Item ItemId="40468" Count="1" Chance="5" />
+    <Item ItemId="40779" Count="1" Chance="5" />
+    <Item ItemId="40397" Count="1" Chance="5" />
+    <Item ItemId="40515" Count="1" Chance="5" />
+    <Item ItemId="40068" Count="1" Chance="2" />
+    <Item ItemId="40444" Count="1" Chance="1" />
+    <Item ItemId="40306" Count="1" Chance="1" />
+  </TreasureBox>
+
+  <!--카리프의 고급 복주머니 다이아몬드-->
+  <TreasureBox Type="RANDOM" ItemId="49009">
+    <Item ItemId="40010" Count="20" Chance="16.7" />
+    <Item ItemId="40014" Count="2" Chance="9" />
+    <Item ItemId="40018" Count="3" Chance="9" />
+    <Item ItemId="40021" Count="2" Chance="9" />
+    <Item ItemId="40317" Count="1" Chance="9" />
+    <Item ItemId="40318" Count="3" Chance="8" />
+    <Item ItemId="40408" Count="3" Chance="8" />
+    <Item ItemId="40779" Count="2" Chance="8" />
+    <Item ItemId="40494" Count="30" Chance="8" />
+    <Item ItemId="40400" Count="2" Chance="8" />
+    <Item ItemId="40304" Count="1" Chance="1" />
+    <Item ItemId="40489" Count="1" Chance="5" />
+    <Item ItemId="40428" Count="1" Chance="1" />
+    <Item ItemId="40396" Count="1" Chance="0.3" />
+  </TreasureBox>
+
+  <!--카리프의 고급 복주머니 루비-->
+  <TreasureBox Type="RANDOM" ItemId="49011">
+    <Item ItemId="40011" Count="5" Chance="17.2" />
+    <Item ItemId="40013" Count="5" Chance="8" />
+    <Item ItemId="40018" Count="2" Chance="8" />
+    <Item ItemId="40014" Count="2" Chance="8" />
+    <Item ItemId="40020" Count="5" Chance="8" />
+    <Item ItemId="40021" Count="2" Chance="8" />
+    <Item ItemId="40320" Count="5" Chance="8" />
+    <Item ItemId="40408" Count="4" Chance="7" />
+    <Item ItemId="40496" Count="3" Chance="5" />
+    <Item ItemId="40458" Count="2" Chance="7" />
+    <Item ItemId="40399" Count="1" Chance="7" />
+    <Item ItemId="40489" Count="1" Chance="3" />
+    <Item ItemId="40441" Count="1" Chance="4" />
+    <Item ItemId="40305" Count="1" Chance="1" />
+    <Item ItemId="40513" Count="1" Chance="0.5" />
+    <Item ItemId="40393" Count="1" Chance="0.3" />
+  </TreasureBox>
+
+  <!--카리프의 고급 복주머니 사파이어-->
+  <TreasureBox Type="RANDOM" ItemId="49012">
+    <Item ItemId="40010" Count="20" Chance="16.7" />
+    <Item ItemId="40016" Count="2" Chance="8" />
+    <Item ItemId="40018" Count="2" Chance="8" />
+    <Item ItemId="40015" Count="2" Chance="8" />
+    <Item ItemId="40318" Count="4" Chance="8" />
+    <Item ItemId="40068" Count="2" Chance="8" />
+    <Item ItemId="40408" Count="5" Chance="8" />
+    <Item ItemId="40494" Count="40" Chance="8" />
+    <Item ItemId="40521" Count="2" Chance="7" />
+    <Item ItemId="40458" Count="1" Chance="7" />
+    <Item ItemId="40398" Count="1" Chance="5" />
+    <Item ItemId="40444" Count="1" Chance="1" />
+    <Item ItemId="40489" Count="1" Chance="2" />
+    <Item ItemId="40441" Count="1" Chance="4" />
+    <Item ItemId="40307" Count="1" Chance="1" />
+    <Item ItemId="40394" Count="1" Chance="0.3" />
+  </TreasureBox>
+
+  <!--카리프의 고급 복주머니 에메랄드-->
+  <TreasureBox Type="RANDOM" ItemId="49010">
+    <Item ItemId="40011" Count="8" Chance="15.2" />
+    <Item ItemId="40012" Count="5" Chance="9" />
+    <Item ItemId="40016" Count="2" Chance="9" />
+    <Item ItemId="40015" Count="3" Chance="9" />
+    <Item ItemId="40014" Count="1" Chance="9" />
+    <Item ItemId="40408" Count="5" Chance="9" />
+    <Item ItemId="40508" Count="8" Chance="9" />
+    <Item ItemId="40458" Count="2" Chance="9" />
+    <Item ItemId="40779" Count="1" Chance="9" />
+    <Item ItemId="40397" Count="1" Chance="9" />
+    <Item ItemId="40515" Count="1" Chance="1" />
+    <Item ItemId="40468" Count="2" Chance="0.5" />
+    <Item ItemId="40444" Count="1" Chance="1" />
+    <Item ItemId="40306" Count="1" Chance="1" />
+    <Item ItemId="40395" Count="1" Chance="0.3" />
+  </TreasureBox>
+
+  <!--드루가 가문 1세대 가보-->
+  <TreasureBox Type="RANDOM" ItemId="40623">    
+    <Item ItemId="140074" Count="1" Chance="10" />
+    <Item ItemId="140087" Count="1" Chance="10" />
+    <Item ItemId="140006" Count="1" Chance="10" />
+    <Item ItemId="140012" Count="10" Chance="10" />
+    <Item ItemId="140008" Count="1" Chance="5" />
+    <Item ItemId="140013" Count="10" Chance="5" />
+    <Item ItemId="140014" Count="10" Chance="10" />
+    <Item ItemId="140015" Count="10" Chance="10" />
+    <Item ItemId="140016" Count="10" Chance="5" />
+    <Item ItemId="140088" Count="10" Chance="5" />
+    <Item ItemId="140089" Count="5" Chance="10" />
+    <Item ItemId="100052" Count="5" Chance="2" />
+    <Item ItemId="100064" Count="5" Chance="2" />
+    <Item ItemId="100132" Count="5" Chance="2" />
+    <Item ItemId="100107" Count="5" Chance="2" />
+    <Item ItemId="100074" Count="5" Chance="2" />  
+  </TreasureBox>
+
+  <!--드루가 가문 2세대 가보-->
+  <TreasureBox Type="RANDOM" ItemId="40624">
+    <Item ItemId="140119" Count="1" Chance="10" />
+    <Item ItemId="140074" Count="1" Chance="10" />
+    <Item ItemId="140087" Count="1" Chance="10" />   
+    <Item ItemId="140072" Count="1" Chance="10" />   
+    <Item ItemId="140100" Count="10" Chance="10" />   
+    <Item ItemId="140018" Count="10" Chance="10" />   
+    <Item ItemId="140015" Count="10" Chance="10" />   
+    <Item ItemId="140014" Count="10" Chance="10" />   
+    <Item ItemId="100026" Count="1" Chance="5" />   
+    <Item ItemId="100004" Count="1" Chance="5" />   
+    <Item ItemId="100042" Count="1" Chance="2" />   
+    <Item ItemId="100074" Count="1" Chance="2" />   
+    <Item ItemId="100151" Count="1" Chance="2" />   
+    <Item ItemId="100181" Count="1" Chance="2" />   
+    <Item ItemId="100157" Count="1" Chance="2" />   
+  </TreasureBox>
+
+  <!--드루가 가문 3세대 가보-->
+  <TreasureBox Type="RANDOM" ItemId="40625">
+    <Item ItemId="20073" Count="1" Chance="2" />
+    <Item ItemId="140074" Count="1" Chance="2" />
+    <Item ItemId="140087" Count="1" Chance="2" />
+    <Item ItemId="20110" Count="1" Chance="2" />
+    <Item ItemId="20138" Count="1" Chance="2" />
+    <Item ItemId="20236" Count="1" Chance="2" />
+    <Item ItemId="120011" Count="1" Chance="2" />
+    <Item ItemId="120016" Count="1" Chance="2" />
+    <Item ItemId="120043" Count="1" Chance="2" />
+    <Item ItemId="120056" Count="1" Chance="2" />
+    <Item ItemId="120085" Count="1" Chance="2" />
+   <Item ItemId="120101" Count="1" Chance="2" />
+   <Item ItemId="120112" Count="1" Chance="2" />
+   <Item ItemId="120128" Count="1" Chance="2" />
+   <Item ItemId="120137" Count="1" Chance="2" />
+   <Item ItemId="120149" Count="1" Chance="2" />
+   <Item ItemId="120154" Count="1" Chance="2" />
+   <Item ItemId="120182" Count="1" Chance="2" />
+   <Item ItemId="120242" Count="1" Chance="2" />
+   <Item ItemId="120280" Count="1" Chance="2" />
+   <Item ItemId="120285" Count="1" Chance="2" />
+   <Item ItemId="120289" Count="1" Chance="2" />
+   <Item ItemId="120300" Count="1" Chance="2" />
+   <Item ItemId="120302" Count="1" Chance="2" />
+   <Item ItemId="120304" Count="1" Chance="2" />
+   <Item ItemId="120311" Count="1" Chance="2" />
+   <Item ItemId="120310" Count="1" Chance="2" />
+   <Item ItemId="120309" Count="1" Chance="2" />
+   <Item ItemId="120317" Count="1" Chance="2" />
+   <Item ItemId="120320" Count="1" Chance="2" />
+   <Item ItemId="120321" Count="1" Chance="2" />
+   <Item ItemId="120223" Count="1" Chance="2" />
+   <Item ItemId="120052" Count="1" Chance="2" />
+   <Item ItemId="120007" Count="1" Chance="2" />
+   <Item ItemId="127" Count="1" Chance="2" />
+   <Item ItemId="100005" Count="1" Chance="2" />
+   <Item ItemId="100008" Count="1" Chance="2" />
+   <Item ItemId="100009" Count="1" Chance="2" />
+   <Item ItemId="100025" Count="1" Chance="2" />
+   <Item ItemId="100027" Count="1" Chance="2" />
+   <Item ItemId="100028" Count="1" Chance="2" />
+   <Item ItemId="100037" Count="1" Chance="2" />
+   <Item ItemId="100041" Count="1" Chance="2" />
+   <Item ItemId="100042" Count="1" Chance="2" />
+   <Item ItemId="100049" Count="1" Chance="2" />
+   <Item ItemId="100052" Count="1" Chance="2" />
+   <Item ItemId="100057" Count="1" Chance="2" />
+   <Item ItemId="100062" Count="1" Chance="2" />
+   <Item ItemId="100064" Count="1" Chance="2" />
+   <Item ItemId="100074" Count="1" Chance="2" />
+  </TreasureBox>
+
+  <!--드루가 가문 4세대 가보-->
+  <TreasureBox Type="RANDOM" ItemId="40626">
+    <Item ItemId="40205" Count="1" Chance="3" />
+    <Item ItemId="40215" Count="1" Chance="3" />
+    <Item ItemId="40263" Count="1" Chance="3" />
+    <Item ItemId="40210" Count="1" Chance="3" />
+    <Item ItemId="41150" Count="1" Chance="3" />   
+    <Item ItemId="41151" Count="1" Chance="3" />   
+    <Item ItemId="40224" Count="1" Chance="3" />   
+    <Item ItemId="40220" Count="1" Chance="3" />   
+    <Item ItemId="40213" Count="1" Chance="3" />   
+    <Item ItemId="100042" Count="1" Chance="3" />   
+    <Item ItemId="100041" Count="1" Chance="5" />   
+    <Item ItemId="100049" Count="1" Chance="5" />   
+    <Item ItemId="100052" Count="1" Chance="5" />   
+    <Item ItemId="100057" Count="1" Chance="5" />   
+    <Item ItemId="100062" Count="1" Chance="5" />   
+    <Item ItemId="100064" Count="1" Chance="5" />   
+    <Item ItemId="100074" Count="1" Chance="5" />   
+    <Item ItemId="100157" Count="1" Chance="5" />   
+    <Item ItemId="100180" Count="1" Chance="5" />   
+    <Item ItemId="100181" Count="1" Chance="5" />   
+    <Item ItemId="100212" Count="1" Chance="5" />   
+    <Item ItemId="100107" Count="1" Chance="5" />   
+    <Item ItemId="127" Count="1" Chance="2" />   
+    <Item ItemId="120317" Count="1" Chance="2" />   
+    <Item ItemId="120320" Count="1" Chance="2" />   
+    <Item ItemId="120280" Count="1" Chance="2" />   
+    <Item ItemId="120074" Count="1" Chance="2" />   
+  </TreasureBox>
+
+  <!--드루가 가문 5세의 가보-->
+  <TreasureBox Type="RANDOM" ItemId="40627">
+    <Item ItemId="40205" Count="1" Chance="3" />
+    <Item ItemId="40212" Count="1" Chance="3" />
+    <Item ItemId="40216" Count="1" Chance="3" />
+    <Item ItemId="40223" Count="1" Chance="3" />
+    <Item ItemId="41150" Count="1" Chance="3" />   
+    <Item ItemId="41151" Count="1" Chance="3" />   
+    <Item ItemId="40208" Count="1" Chance="3" />   
+    <Item ItemId="40220" Count="1" Chance="3" />   
+    <Item ItemId="41152" Count="1" Chance="3" />   
+    <Item ItemId="100042" Count="1" Chance="3" />   
+    <Item ItemId="100041" Count="1" Chance="5" />   
+    <Item ItemId="100049" Count="1" Chance="5" />   
+    <Item ItemId="100052" Count="1" Chance="5" />   
+    <Item ItemId="100057" Count="1" Chance="5" />   
+    <Item ItemId="100062" Count="1" Chance="5" />   
+    <Item ItemId="100064" Count="1" Chance="5" />   
+    <Item ItemId="100074" Count="1" Chance="5" />   
+    <Item ItemId="100157" Count="1" Chance="5" />   
+    <Item ItemId="100180" Count="1" Chance="5" />   
+    <Item ItemId="100181" Count="1" Chance="5" />   
+    <Item ItemId="100212" Count="1" Chance="5" />   
+    <Item ItemId="100107" Count="1" Chance="5" />   
+    <Item ItemId="127" Count="1" Chance="2" />   
+    <Item ItemId="120317" Count="1" Chance="2" />   
+    <Item ItemId="120320" Count="1" Chance="2" />   
+    <Item ItemId="120280" Count="1" Chance="2" />   
+    <Item ItemId="120074" Count="1" Chance="2" />   
+  </TreasureBox>
+
+  <!--드루가 가문 6세의 가보-->
+  <TreasureBox Type="RANDOM" ItemId="40628">
+    <Item ItemId="40219" Count="1" Chance="5" />
+    <Item ItemId="40249" Count="1" Chance="5" />
+    <Item ItemId="41149" Count="1" Chance="5" />
+    <Item ItemId="41152" Count="1" Chance="5" />
+    <Item ItemId="41153" Count="1" Chance="5" />
+    <Item ItemId="40166" Count="1" Chance="5" />
+    <Item ItemId="127" Count="1" Chance="5" />
+    <Item ItemId="100062" Count="1" Chance="5" />
+    <Item ItemId="100064" Count="1" Chance="5" />
+    <Item ItemId="120074" Count="1" Chance="5" />
+    <Item ItemId="120280" Count="1" Chance="5" />
+    <Item ItemId="120320" Count="1" Chance="5" />
+    <Item ItemId="20108" Count="1" Chance="5" />
+    <Item ItemId="20119" Count="1" Chance="5" />
+    <Item ItemId="20130" Count="1" Chance="5" />
+    <Item ItemId="20153" Count="1" Chance="5" />
+    <Item ItemId="430100" Count="1" Chance="5" />
+    <Item ItemId="430101" Count="1" Chance="5" />
+    <Item ItemId="430102" Count="1" Chance="5" />
+    <Item ItemId="430103" Count="1" Chance="5" /> 
+  </TreasureBox>
+
+  <!--드루가 가문 7세대 가보-->
+  <TreasureBox Type="RANDOM" ItemId="40629">    
+    <Item ItemId="420103" Count="1" Chance="4" />
+    <Item ItemId="420107" Count="1" Chance="4" />
+    <Item ItemId="420111" Count="1" Chance="4" />
+    <Item ItemId="420115" Count="1" Chance="4" />
+    <Item ItemId="66" Count="1" Chance="3" />
+    <Item ItemId="420102" Count="1" Chance="5" />
+    <Item ItemId="420106" Count="1" Chance="5" />
+    <Item ItemId="420110" Count="1" Chance="5" />
+    <Item ItemId="420114" Count="1" Chance="5" />
+    <Item ItemId="420105" Count="1" Chance="5" />
+    <Item ItemId="420101" Count="1" Chance="5" />
+    <Item ItemId="420109" Count="1" Chance="5" />
+    <Item ItemId="420113" Count="1" Chance="5" />
+    <Item ItemId="420100" Count="1" Chance="5" />
+    <Item ItemId="420104" Count="1" Chance="5" />
+    <Item ItemId="420108" Count="1" Chance="5" />
+    <Item ItemId="420112" Count="1" Chance="5" />
+    <Item ItemId="100084" Count="1" Chance="3" />
+    <Item ItemId="100164" Count="1" Chance="3" />
+    <Item ItemId="100189" Count="1" Chance="3" />
+    <Item ItemId="120077" Count="1" Chance="2" />
+    <Item ItemId="430109" Count="1" Chance="2" />
+    <Item ItemId="430108" Count="1" Chance="2" />
+    <Item ItemId="40222" Count="1" Chance="2" />
+    <Item ItemId="41148" Count="1" Chance="2" />
+    <Item ItemId="40218" Count="1" Chance="2" />
+  </TreasureBox>
+
+  <!--피어스의 선물-->
+  <TreasureBox Type="RANDOM" ItemId="40715">
+	<Item ItemId="152" Count="1" Chance="6" /> 
+	<Item ItemId="69" Count="1" Chance="6" /> 
+	<Item ItemId="153" Count="1" Chance="5" /> 
+	<Item ItemId="71" Count="1" Chance="5" /> 
+	<Item ItemId="154" Count="1" Chance="5" /> 
+	<Item ItemId="72" Count="1" Chance="5" /> 
+	<Item ItemId="159" Count="1" Chance="5" /> 
+	<Item ItemId="77" Count="1" Chance="5" /> 
+	<Item ItemId="161" Count="1" Chance="5" /> 
+	<Item ItemId="80" Count="1" Chance="5" /> 
+	<Item ItemId="158" Count="1" Chance="4" /> 
+	<Item ItemId="75" Count="1" Chance="4" /> 
+	<Item ItemId="168" Count="1" Chance="4" /> 
+	<Item ItemId="162" Count="1" Chance="1" /> 
+	<Item ItemId="81" Count="1" Chance="1" /> 
+	<Item ItemId="177" Count="1" Chance="1" /> 
+	<Item ItemId="40739" Count="1000" Chance="6" /> 
+	<Item ItemId="40738" Count="1000" Chance="6" /> 
+	<Item ItemId="40740" Count="500" Chance="6" /> 
+	<Item ItemId="20032" Count="1" Chance="3" /> 
+	<Item ItemId="20070" Count="1" Chance="3" /> 
+	<Item ItemId="20180" Count="1" Chance="3" /> 
+	<Item ItemId="20132" Count="1" Chance="3" /> 
+	<Item ItemId="20210" Count="1" Chance="3" /> 
+  </TreasureBox>
+
+  <!--금호박-->
+  <TreasureBox Type="RANDOM" ItemId="40722">
+    <Item ItemId="40308" Count="200000" Chance="14" />
+    <Item ItemId="40308" Count="300000" Chance="5" />
+    <Item ItemId="40308" Count="100000" Chance="10" />
+    <Item ItemId="41159" Count="20" Chance="10" />
+    <Item ItemId="41159" Count="10" Chance="10" />
+    <Item ItemId="40007" Count="1" Chance="5" />
+    <Item ItemId="140008" Count="1" Chance="5" />
+    <Item ItemId="3500043" Count="1" Chance="5" />
+    <Item ItemId="40090" Count="1" Chance="5" />
+    <Item ItemId="40091" Count="1" Chance="5" />
+    <Item ItemId="40092" Count="1" Chance="5" />
+    <Item ItemId="40093" Count="1" Chance="5" />
+    <Item ItemId="40094" Count="1" Chance="5" />
+    <Item ItemId="20047" Count="1" Chance="5" />
+    <Item ItemId="256" Count="1" Chance="1" />
+    <Item ItemId="21060" Count="1" Chance="1" />
+    <Item ItemId="413106" Count="1" Chance="1" />
+    <Item ItemId="240087" Count="1" Chance="1" />
+    <Item ItemId="240074" Count="1" Chance="1" />
+    <Item ItemId="437035" Count="1" Chance="1" />
+  </TreasureBox>
+
+  <!--은호박-->
+  <TreasureBox Type="RANDOM" ItemId="40723">
+    <Item ItemId="40021" Count="9" Chance="12" />
+    <Item ItemId="40024" Count="20" Chance="5" />
+    <Item ItemId="40015" Count="20" Chance="5" />
+    <Item ItemId="40068" Count="5" Chance="8" />
+    <Item ItemId="40093" Count="8" Chance="5" />
+    <Item ItemId="40094" Count="8" Chance="5" />
+    <Item ItemId="40524" Count="1" Chance="5" />
+    <Item ItemId="40074" Count="1" Chance="5" />
+    <Item ItemId="40087" Count="1" Chance="5" />
+    <Item ItemId="20347" Count="1" Chance="5" />
+    <Item ItemId="20348" Count="1" Chance="5" />
+    <Item ItemId="20350" Count="1" Chance="5" />
+    <Item ItemId="40212" Count="1" Chance="2" />
+    <Item ItemId="40218" Count="1" Chance="2" />
+    <Item ItemId="140068" Count="1" Chance="8" />
+    <Item ItemId="100004" Count="1" Chance="2" />
+    <Item ItemId="100025" Count="1" Chance="2" />
+    <Item ItemId="100062" Count="1" Chance="2" />
+    <Item ItemId="100099" Count="1" Chance="2" />
+    <Item ItemId="100132" Count="1" Chance="2" />
+    <Item ItemId="100169" Count="1" Chance="2" />
+    <Item ItemId="120011" Count="1" Chance="2" />
+    <Item ItemId="120085" Count="1" Chance="2" />
+    <Item ItemId="120137" Count="1" Chance="2" />
+  </TreasureBox>
+
+  <!--동호박-->
+  <TreasureBox Type="RANDOM" ItemId="40724">
+    <Item ItemId="40028" Count="60" Chance="5" />
+    <Item ItemId="40058" Count="3" Chance="5" />
+    <Item ItemId="40071" Count="1" Chance="5" />
+    <Item ItemId="40018" Count="1" Chance="5" />
+    <Item ItemId="40088" Count="3" Chance="5" />
+    <Item ItemId="40015" Count="5" Chance="5" />
+    <Item ItemId="40318" Count="20" Chance="5" />
+    <Item ItemId="40014" Count="10" Chance="5" />
+    <Item ItemId="40068" Count="1" Chance="5" />
+    <Item ItemId="40089" Count="10" Chance="5" />
+    <Item ItemId="40043" Count="1" Chance="5" />
+    <Item ItemId="20345" Count="1" Chance="5" />
+    <Item ItemId="20346" Count="1" Chance="5" />
+    <Item ItemId="20349" Count="1" Chance="5" />
+    <Item ItemId="140061" Count="1" Chance="5" />
+    <Item ItemId="140062" Count="1" Chance="5" />
+    <Item ItemId="140065" Count="1" Chance="5" />
+    <Item ItemId="140069" Count="1" Chance="5" />
+    <Item ItemId="140072" Count="1" Chance="5" />
+    <Item ItemId="140506" Count="1" Chance="5" />
+  </TreasureBox>
+
+  <!--낡은 가죽 주머니-->
+  <TreasureBox Type="RANDOM" ItemId="40167">
+    <Item ItemId="40058" Count="1" Chance="40" />
+    <Item ItemId="40071" Count="1" Chance="30" />
+    <Item ItemId="40331" Count="1" Chance="3" />
+    <Item ItemId="40332" Count="1" Chance="3" />
+    <Item ItemId="40333" Count="1" Chance="3" />
+    <Item ItemId="40334" Count="1" Chance="3" />
+    <Item ItemId="40335" Count="1" Chance="3" />
+    <Item ItemId="40336" Count="1" Chance="3" />
+    <Item ItemId="40337" Count="1" Chance="3" />
+    <Item ItemId="40338" Count="1" Chance="3" />
+    <Item ItemId="40339" Count="1" Chance="3" />
+    <Item ItemId="40340" Count="1" Chance="3" />
+  </TreasureBox>
+
+  <!--낡은 비단주머니-->
+  <TreasureBox Type="RANDOM" ItemId="40168">
+    <Item ItemId="40058" Count="1" Chance="40" />
+    <Item ItemId="40071" Count="1" Chance="30" />
+    <Item ItemId="40331" Count="1" Chance="3" />
+    <Item ItemId="40332" Count="1" Chance="3" />
+    <Item ItemId="40333" Count="1" Chance="3" />
+    <Item ItemId="40334" Count="1" Chance="3" />
+    <Item ItemId="40335" Count="1" Chance="3" />
+    <Item ItemId="40336" Count="1" Chance="3" />
+    <Item ItemId="40337" Count="1" Chance="3" />
+    <Item ItemId="40338" Count="1" Chance="3" />
+    <Item ItemId="40339" Count="1" Chance="3" />
+    <Item ItemId="40340" Count="1" Chance="3" />
+  </TreasureBox>
+
+  <!--유물주머니-->
+  <TreasureBox Type="RANDOM" ItemId="40415">
+    <Item ItemId="40058" Count="1" Chance="40" />
+    <Item ItemId="40071" Count="1" Chance="30" />
+    <Item ItemId="40331" Count="1" Chance="3" />
+    <Item ItemId="40332" Count="1" Chance="3" />
+    <Item ItemId="40333" Count="1" Chance="3" />
+    <Item ItemId="40334" Count="1" Chance="3" />
+    <Item ItemId="40335" Count="1" Chance="3" />
+    <Item ItemId="40336" Count="1" Chance="3" />
+    <Item ItemId="40337" Count="1" Chance="3" />
+    <Item ItemId="40338" Count="1" Chance="3" />
+    <Item ItemId="40339" Count="1" Chance="3" />
+    <Item ItemId="40340" Count="1" Chance="3" />
+  </TreasureBox>
+
+  <!--무한의 화살통-->
+  <TreasureBox Type="RANDOM" ItemId="40330">
+    <Item ItemId="40744" Count="4000" Chance="80" />
+    <Item ItemId="40746" Count="1000" Chance="10" />
+    <Item ItemId="40747" Count="1000" Chance="5" />
+    <Item ItemId="40748" Count="1000" Chance="5" />
+  </TreasureBox>
+
+  <!--저주받은 피-->
+  <TreasureBox Type="RANDOM" ItemId="40416">
+    <Item ItemId="40031" Count="1" Chance="24" />
+    <Item ItemId="40009" Count="1" Chance="16" />
+    <Item ItemId="40006" Count="1" Chance="15" />
+    <Item ItemId="40007" Count="1" Chance="15" />
+    <Item ItemId="40008" Count="1" Chance="15" />
+    <Item ItemId="40524" Count="1" Chance="15" />
+  </TreasureBox>
+
+  <!--연금술사의 돌-->
+  <TreasureBox Type="RANDOM" ItemId="40414">
+    <Item ItemId="40042" Count="1" Chance="11" />
+    <Item ItemId="40010" Count="1" Chance="9" />
+    <Item ItemId="40011" Count="1" Chance="8" />
+    <Item ItemId="49012" Count="1" Chance="8" />
+    <Item ItemId="40013" Count="1" Chance="8" />
+    <Item ItemId="40014" Count="1" Chance="8" />
+    <Item ItemId="40015" Count="1" Chance="8" />
+    <Item ItemId="40016" Count="1" Chance="8" />
+    <Item ItemId="40017" Count="1" Chance="8" />
+    <Item ItemId="40018" Count="1" Chance="8" />
+    <Item ItemId="40025" Count="1" Chance="8" />
+    <Item ItemId="40425" Count="1" Chance="8" />
+  </TreasureBox>
+
+  <!--아리아의 보답-->
+  <TreasureBox Type="SPECIFIC" ItemId="40570">
+    <Item ItemId="20051" Count="1" />
+    <Item ItemId="40228" Count="1" />
+  </TreasureBox>
+
+  <!--신비한 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="40568">
+    <Item ItemId="40576" Count="1" />
+    <Item ItemId="40577" Count="1" />
+    <Item ItemId="40578" Count="1" />
+  </TreasureBox>
+
+  <!--영혼의 결정체 조각(흰색)-->
+  <TreasureBox Type="SPECIFIC" ItemId="40576">
+    <Item ItemId="40573" Count="1" />
+  </TreasureBox>
+
+  <!--영혼의 결정체 조각(흑)-->
+  <TreasureBox Type="SPECIFIC" ItemId="40577">
+    <Item ItemId="40574" Count="1" />
+  </TreasureBox>
+
+  <!--영혼의 결정체 조각(빨강)-->
+  <TreasureBox Type="SPECIFIC" ItemId="40578">
+    <Item ItemId="40575" Count="1" />
+  </TreasureBox>
+
+  <!--마족의 주문서-->
+  <TreasureBox Type="SPECIFIC" ItemId="49013">
+    <Item ItemId="49014" Count="1" />
+  </TreasureBox>
+
+  <!--블랙엔트의 열매-->
+  <TreasureBox Type="SPECIFIC" ItemId="40411">
+    <Item ItemId="20299" Count="1" />
+  </TreasureBox>
+
+  <!--가디언의 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="40528">
+    <Item ItemId="65" Count="1" />
+    <Item ItemId="40597" Count="1" />
+    <Item ItemId="40537" Count="1" />
+  </TreasureBox>
+
+  <!--요정족의 보물-->
+  <TreasureBox Type="SPECIFIC" ItemId="40588">
+    <Item ItemId="40243" Count="1" />
+    <Item ItemId="20084" Count="1" />
+  </TreasureBox>
+
+  <!--망령의 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="40548">
+    <Item ItemId="40533" Count="1" />
+    <Item ItemId="192" Count="1" />
+  </TreasureBox>
+
+  <!--마샤의 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="40546">
+    <Item ItemId="192" Count="1" />
+    <Item ItemId="20171" Count="1" />
+    <Item ItemId="40245" Count="1" />
+  </TreasureBox>
+
+  <!--타라스의 마법주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="40599">
+    <Item ItemId="133" Count="1" />
+    <Item ItemId="20055" Count="1" />
+  </TreasureBox>
+
+  <!--칸의 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="40598">
+    <Item ItemId="20004" Count="1" />
+    <Item ItemId="40268" Count="1" />
+  </TreasureBox>  
+
+  <!--론드의 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="40545">
+    <Item ItemId="20164" Count="1" />
+    <Item ItemId="40270" Count="1" />
+  </TreasureBox>
+
+  <!--어쌔신마스터의 상자-->
+  <TreasureBox Type="SPECIFIC" ItemId="40571">
+    <Item ItemId="40648" Count="1" />
+    <Item ItemId="40595" Count="1" />
+  </TreasureBox>
+
+  <!--블루디카의 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="40553">
+    <Item ItemId="20195" Count="1"></Item>
+    <Item ItemId="40276" Count="1" />
+  </TreasureBox>
+
+  <!--군주의 봉투-->
+  <TreasureBox Type="SPECIFIC" ItemId="41217">
+    <Item ItemId="20384" Count="1" />
+    <Item ItemId="20391" Count="1" />
+    <Item ItemId="20397" Count="1" />
+  </TreasureBox>
+
+  <!--기사의 봉투-->
+  <TreasureBox Type="SPECIFIC" ItemId="41218">
+    <Item ItemId="20385" Count="1" />
+    <Item ItemId="20394" Count="1" />
+    <Item ItemId="20398" Count="1" />
+  </TreasureBox>
+
+  <!--요정의 봉투-->
+  <TreasureBox Type="SPECIFIC" ItemId="41219">
+    <Item ItemId="20386" Count="1" />
+    <Item ItemId="20392" Count="1" />
+    <Item ItemId="20403" Count="1" />
+  </TreasureBox>
+
+  <!--마법사의 봉투-->
+  <TreasureBox Type="SPECIFIC" ItemId="41220">
+    <Item ItemId="20387" Count="1" />
+    <Item ItemId="20399" Count="1" />
+    <Item ItemId="20404" Count="1" />
+  </TreasureBox>
+
+  <!--다크 엘프의 봉투-->
+  <TreasureBox Type="SPECIFIC" ItemId="41221">
+    <Item ItemId="20388" Count="1" />
+    <Item ItemId="20400" Count="1" />
+    <Item ItemId="20405" Count="1" />
+  </TreasureBox>
+
+  <!--존의 소포-->
+  <TreasureBox Type="SPECIFIC" ItemId="41232">
+    <Item ItemId="41233" Count="1" />
+    <Item ItemId="41234" Count="1" />
+  </TreasureBox>
+
+  <!--케이의 소포-->
+  <TreasureBox Type="SPECIFIC" ItemId="41238">
+    <Item ItemId="41239" Count="1" />
+    <Item ItemId="41240" Count="1" />
+  </TreasureBox>
+
+  <!--뼈세공인의 봉투-->
+  <TreasureBox Type="SPECIFIC" ItemId="41241">
+    <Item ItemId="20045" Count="1" />
+    <Item ItemId="20221" Count="1" />
+  </TreasureBox>
+
+  <!--오크의 봉투-->
+  <TreasureBox Type="RANDOM" ItemId="41242">
+    <Item ItemId="40930" Count="3" Chance="25" />
+    <Item ItemId="41081" Count="1" Chance="25" />
+    <Item ItemId="41082" Count="1" Chance="25" />
+    <Item ItemId="41085" Count="1" Chance="25" />
+  </TreasureBox>
+
+  <!--반디드의 봉투-->
+  <TreasureBox Type="SPECIFIC" ItemId="41074">
+    <Item ItemId="40308" Count="500" />
+  </TreasureBox>
+
+  <!--작은 봉투-->
+  <TreasureBox Type="SPECIFIC" ItemId="40702">
+    <Item ItemId="40701" Count="1" />
+  </TreasureBox>
+
+  <!--점성술사의 항아리-->
+  <TreasureBox Type="SPECIFIC" ItemId="41312">
+    <Item ItemId="41313" Count="1" />
+  </TreasureBox>
+
+<!--마령군의 징표함-->
+	<TreasureBox Type="RANDOM" ItemId="40636">
+	<Item ItemId="40635" Count="3" Chance="80" />
+	<Item ItemId="40675" Count="1" Chance="9" />
+	<Item ItemId="40703" Count="1" Chance="2" />
+	<Item ItemId="20030" Count="1" Chance="2" />
+	<Item ItemId="20067" Count="1" Chance="2" />
+	<Item ItemId="20176" Count="1" Chance="2" />
+	<Item ItemId="20208" Count="1" Chance="2" />
+	<Item ItemId="20109" Count="1" Chance="0.5" />
+	<Item ItemId="20253" Count="1" Chance="0.5" />
+ </TreasureBox>
+ <!--마수군의 징표함-->
+	<TreasureBox Type="RANDOM" ItemId="40639">
+	<Item ItemId="40638" Count="1" Chance="80" />
+	<Item ItemId="40675" Count="1" Chance="8.5" />
+	<Item ItemId="40703" Count="1" Chance="2" />
+	<Item ItemId="20020" Count="1" Chance="2" />
+	<Item ItemId="20058" Count="1" Chance="2" />
+	<Item ItemId="20168" Count="1" Chance="2" />
+	<Item ItemId="20201" Count="1" Chance="2" />
+	<Item ItemId="20200" Count="1" Chance="0.5" />
+	<Item ItemId="155" Count="1" Chance="1" />
+ </TreasureBox>
+ <!--명법군의 징표함-->
+	<TreasureBox Type="RANDOM" ItemId="40640">
+	<Item ItemId="40642" Count="1" Chance="80" />
+	<Item ItemId="40675" Count="1" Chance="9" />
+	<Item ItemId="40703" Count="1" Chance="2" />
+	<Item ItemId="20030" Count="1" Chance="2" />
+	<Item ItemId="20067" Count="1" Chance="2" />
+	<Item ItemId="20176" Count="1" Chance="2" />
+	<Item ItemId="20208" Count="1" Chance="2" />
+	<Item ItemId="20057" Count="1" Chance="0.5" />
+	<Item ItemId="20255" Count="1" Chance="0.5" />
+ </TreasureBox>
+ <!--암살군의 징표함-->
+	<TreasureBox Type="RANDOM" ItemId="40668">
+	<Item ItemId="40667" Count="1" Chance="80" />
+	<Item ItemId="40675" Count="1" Chance="8.5" />
+	<Item ItemId="40703" Count="1" Chance="2" />
+	<Item ItemId="20030" Count="1" Chance="2" />
+	<Item ItemId="20067" Count="1" Chance="2" />
+	<Item ItemId="20176" Count="1" Chance="2" />
+	<Item ItemId="20208" Count="1" Chance="2" />
+	<Item ItemId="78" Count="1" Chance="1" />
+	<Item ItemId="20178" Count="1" Chance="0.5" />
+  </TreasureBox>   
+
+
+ <!--코마버프상자-->
+	<TreasureBox Type="SPECIFIC" ItemId="3500046">
+	<Item ItemId="435009" Count="1" />
+    <Item ItemId="435010" Count="1" />
+    <Item ItemId="435011" Count="1" />
+    <Item ItemId="435012" Count="1" />
+    <Item ItemId="435013" Count="1" />
+  </TreasureBox>   
+
+
+  <!--라스타바드 보급품 주머니-->
+  <TreasureBox Type="RANDOM" ItemId="41243">
+    <Item ItemId="40308" Count="300" Chance="30" />
+    <Item ItemId="40308" Count="1000" Chance="10" />
+    <Item ItemId="40308" Count="10000" Chance="1" />
+    <Item ItemId="40006" Count="1" Chance="1" />	
+    <Item ItemId="40008" Count="1" Chance="1" />	
+    <Item ItemId="40044" Count="1" Chance="5" />	
+    <Item ItemId="40045" Count="1" Chance="5" />	
+    <Item ItemId="40046" Count="1" Chance="5" />	
+    <Item ItemId="40047" Count="1" Chance="5" />	
+    <Item ItemId="40048" Count="1" Chance="3" />	
+    <Item ItemId="40049" Count="1" Chance="3" />	
+    <Item ItemId="40050" Count="1" Chance="3" />	
+    <Item ItemId="40051" Count="1" Chance="3" />	
+    <Item ItemId="40052" Count="1" Chance="1" />	
+    <Item ItemId="40053" Count="1" Chance="1" />	
+    <Item ItemId="40054" Count="1" Chance="1" />	
+    <Item ItemId="40055" Count="1" Chance="1" />	
+    <Item ItemId="40429" Count="1" Chance="9" />	
+    <Item ItemId="40441" Count="1" Chance="2" />	
+    <Item ItemId="40444" Count="1" Chance="1" />	
+    <Item ItemId="40468" Count="1" Chance="1" />	
+    <Item ItemId="40489" Count="1" Chance="1" />	
+    <Item ItemId="40508" Count="1" Chance="1" />	
+    <Item ItemId="40524" Count="1" Chance="1" />	
+    <Item ItemId="140074" Count="1" Chance="1" />	
+    <Item ItemId="140087" Count="1" Chance="1" />
+    <Item ItemId="140100" Count="3" Chance="3" />	
+  </TreasureBox>
+
+  <!--라스타바드 보급품 상자-->
+  <TreasureBox Type="RANDOM" ItemId="41244">
+    <Item ItemId="6" Count="1" Chance="1" />		<!--라스타바드다가-->
+    <Item ItemId="10" Count="1" Chance="1" />		<!--라스타바드브레이드-->
+    <Item ItemId="38" Count="1" Chance="1" />		<!--라스타바드 장검-->
+    <Item ItemId="82" Count="1" Chance="1" />		<!--라스타바드쌍검-->
+    <Item ItemId="101" Count="1" Chance="1" />		<!--라스타바드창-->
+    <Item ItemId="122" Count="1" Chance="1" />		<!--라스타바드스탓후-->
+    <Item ItemId="176" Count="1" Chance="1" />		<!--라스타바드보워-->
+    <Item ItemId="187" Count="1" Chance="1" />		<!--라스타바드크로스보워-->
+    <Item ItemId="188" Count="1" Chance="1" />		<!--라스타바드겹크로스-->
+    <Item ItemId="20032" Count="1" Chance="1" />	<!--다크 헤드 밴드-->
+    <Item ItemId="20102" Count="1" Chance="1" />	<!--라스타바드레자요로이-->
+    <Item ItemId="20103" Count="1" Chance="1" />	<!--라스타바드로브-->
+    <Item ItemId="20104" Count="1" Chance="1" />	<!--라스타바드스타젯드-->
+    <Item ItemId="20105" Count="1" Chance="1" />	<!--라스타바드체요로이-->
+    <Item ItemId="20132" Count="1" Chance="1" />	<!--다크 로브-->
+    <Item ItemId="20199" Count="1" Chance="1" />	<!--라스타바드브트-->
+    <Item ItemId="20224" Count="1" Chance="1" />	<!--라스타바드라운드방패-->
+    <Item ItemId="40675" Count="1" Chance="20" />	<!--어둠의 광석-->
+    <Item ItemId="40675" Count="2" Chance="20" />	<!--어둠의 광석-->
+    <Item ItemId="40675" Count="3" Chance="20" />	<!--어둠의 광석-->
+    <Item ItemId="40746" Count="10" Chance="4" />	<!--미스릴의 화살-->
+    <Item ItemId="40746" Count="15" Chance="4" />	<!--미스릴의 화살-->
+    <Item ItemId="40746" Count="20" Chance="4" />	<!--미스릴의 화살-->
+    <Item ItemId="40746" Count="25" Chance="3" />	<!--미스릴의 화살-->
+    <Item ItemId="40746" Count="30" Chance="3" />	<!--미스릴의 화살-->
+    <Item ItemId="40746" Count="35" Chance="2" />	<!--미스릴의 화살-->
+    <Item ItemId="40746" Count="40" Chance="2" />	<!--미스릴의 화살-->
+    <Item ItemId="40746" Count="50" Chance="1" />	<!--미스릴의 화살-->
+  </TreasureBox>
+
+  <!--용기있는자의 호박주머니-->
+  <TreasureBox Type="RANDOM" ItemId="41308">
+    <Item ItemId="41251" Count="1" Chance="15" />
+    <Item ItemId="430009" Count="1" Chance="15" />
+    <Item ItemId="40010" Count="15" Chance="15" />
+    <Item ItemId="40011" Count="15" Chance="15" />
+    <Item ItemId="40012" Count="15" Chance="20" />
+    <Item ItemId="40088" Count="3" Chance="20" />
+  </TreasureBox>
+
+  <!--반짝이는 비늘-->
+  <TreasureBox Type="RANDOM" ItemId="4500163">
+    <Item ItemId="41402" Count="25" Chance="5" />
+    <Item ItemId="41251" Count="1" Chance="5" />
+    <Item ItemId="430009" Count="1" Chance="10" />    
+    <Item ItemId="40011" Count="15" Chance="30" />
+    <Item ItemId="40012" Count="15" Chance="25" />
+    <Item ItemId="40010" Count="3" Chance="25" />
+  </TreasureBox>
+
+    <!--물고기 상자-->
+  <TreasureBox Type="RANDOM" ItemId="41425">
+    <Item ItemId="41402" Count="25" Chance="5" />
+    <Item ItemId="41251" Count="1" Chance="5" />
+    <Item ItemId="430009" Count="1" Chance="10" />    
+    <Item ItemId="40011" Count="15" Chance="25" />
+    <Item ItemId="40012" Count="15" Chance="20" />
+    <Item ItemId="40010" Count="3" Chance="27" />
+	<Item ItemId="41285" Count="1" Chance="1" />
+	<Item ItemId="41286" Count="1" Chance="1" />
+	<Item ItemId="41287" Count="1" Chance="1" />
+	<Item ItemId="41288" Count="1" Chance="1" />
+	<Item ItemId="41289" Count="1" Chance="1" />
+	<Item ItemId="41290" Count="1" Chance="1" />
+	<Item ItemId="41291" Count="1" Chance="1" />
+	<Item ItemId="41292" Count="1" Chance="1" />
+  </TreasureBox>
+
+  <!--아르카의 마법 주머니(인형주머니)-->
+  <TreasureBox Type="RANDOM" ItemId="41247">
+    <Item ItemId="41248" Count="1" Chance="21" />
+    <Item ItemId="41249" Count="1" Chance="8" />
+    <Item ItemId="41250" Count="1" Chance="21" />
+    <Item ItemId="430000" Count="1" Chance="13" />
+    <Item ItemId="430001" Count="1" Chance="6" />
+    <Item ItemId="430002" Count="1" Chance="12" />    
+	<Item ItemId="430004" Count="1" Chance="10" />
+	<Item ItemId="430500" Count="1" Chance="9" />		
+  </TreasureBox>
+
+  <!--파룸의 작물주머니-->
+  <TreasureBox Type="RANDOM" ItemId="41355">
+    <Item ItemId="140074" Count="1" Chance="0.41" />
+    <Item ItemId="140087" Count="1" Chance="0.25" />
+    <Item ItemId="40074" Count="1" Chance="1.25" />
+    <Item ItemId="40087" Count="1" Chance="1.49" />
+    <Item ItemId="40441" Count="1" Chance="3.56" />
+    <Item ItemId="40458" Count="1" Chance="7.62" />
+    <Item ItemId="40444" Count="1" Chance="2.90" />
+    <Item ItemId="40508" Count="1" Chance="3.39" />
+    <Item ItemId="40410" Count="1" Chance="25.25" />
+    <Item ItemId="40412" Count="1" Chance="5.38" />
+    <Item ItemId="40024" Count="1" Chance="16.72" />
+    <Item ItemId="40023" Count="1" Chance="13.41" />
+    <Item ItemId="40022" Count="1" Chance="12.42" />
+    <Item ItemId="40304" Count="1" Chance="1.32" />
+    <Item ItemId="40305" Count="1" Chance="1.74" />
+    <Item ItemId="40306" Count="1" Chance="1.32" />
+    <Item ItemId="40307" Count="1" Chance="1.57" />
+  </TreasureBox>
+
+  <!--보상금(다크 엘프 병사 배지)-->
+  <TreasureBox Type="SPECIFIC" ItemId="41001">
+    <Item ItemId="40308" Count="200"></Item>
+  </TreasureBox>
+
+  <!--보상금(다크 엘프 장군-배지)-->
+  <TreasureBox Type="SPECIFIC" ItemId="41405">
+    <Item ItemId="40308" Count="1000"></Item>
+  </TreasureBox>
+
+  <!--광물의 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="41002">
+    <Item ItemId="40444" Count="1"></Item>
+  </TreasureBox>
+
+  <!--오옴의 주머니-->
+  <TreasureBox Type="RANDOM" ItemId="40687">
+    <Item ItemId="40691" Count="1" Chance="40" />
+    <Item ItemId="40689" Count="1" Chance="30" />
+    <Item ItemId="40690" Count="1" Chance="15" />
+    <Item ItemId="40685" Count="1" Chance="7" />
+    <Item ItemId="40688" Count="1" Chance="5" />
+    <Item ItemId="40686" Count="1" Chance="3" />
+  </TreasureBox>
+
+  <!--레오나의 보수(오옴이 만들고 있던 조각상)-->
+  <TreasureBox Type="SPECIFIC" ItemId="40632">
+    <Item ItemId="40308" Count="300"></Item>
+  </TreasureBox>
+
+  <!--레오나의 보수(오옴의 완고한 조각상)-->
+  <TreasureBox Type="SPECIFIC" ItemId="41406">
+    <Item ItemId="40308" Count="500"></Item>
+  </TreasureBox>
+
+  <!--레오나의 보수(오옴이 손질 하고 있던 조각상)-->
+  <TreasureBox Type="SPECIFIC" ItemId="41407">
+    <Item ItemId="40308" Count="1000"></Item>
+  </TreasureBox>
+
+  <!--레오나의 보수(오옴의 섬세한 조각상)-->
+  <TreasureBox Type="SPECIFIC" ItemId="41408">
+    <Item ItemId="40308" Count="1700"></Item>
+  </TreasureBox>
+
+  <!--레오나의 보수(오옴의 색포함의 조각상)-->
+  <TreasureBox Type="SPECIFIC" ItemId="41409">
+    <Item ItemId="40308" Count="2600"></Item>
+  </TreasureBox>
+
+  <!--레오나의 보수(오옴의 색포함의 조각상)-->
+  <TreasureBox Type="SPECIFIC" ItemId="41410">
+    <Item ItemId="40308" Count="4000"></Item>
+  </TreasureBox>
+
+  <!--엔디아의 가방-->
+  <TreasureBox Type="SPECIFIC" ItemId="40582">
+    <Item ItemId="40583" Count="1"></Item>
+  </TreasureBox>
+
+  <!--암살 리스트의 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="40556">
+    <Item ItemId="40557" Count="1" />
+    <Item ItemId="40558" Count="1" />
+    <Item ItemId="40559" Count="1" />
+    <Item ItemId="40560" Count="1" />
+    <Item ItemId="40561" Count="1" />
+    <Item ItemId="40562" Count="1" />
+    <Item ItemId="40563" Count="1" />
+  </TreasureBox>
+
+  <!--이리스의 가방-->
+  <TreasureBox Type="RANDOM" ItemId="41008">
+	<Item ItemId="40308" Count="200" Chance="38" />
+	<Item ItemId="40100" Count="1" Chance="20" />
+	<Item ItemId="40044" Count="1" Chance="10" />
+	<Item ItemId="40045" Count="1" Chance="10" />
+	<Item ItemId="40046" Count="1" Chance="10" />
+	<Item ItemId="40047" Count="1" Chance="10" />
+	<Item ItemId="20421" Count="1" Chance="1" />
+	<Item ItemId="20434" Count="1" Chance="1" />
+  </TreasureBox>
+
+ <!--열린 하급 오시리스의 보물상자-->
+  <TreasureBox Type="RANDOM" ItemId="433003">
+    <Item ItemId="415010" Count="1" Chance="1" />
+    <Item ItemId="415011" Count="1" Chance="1" />
+    <Item ItemId="415012" Count="1" Chance="1" />
+    <Item ItemId="415013" Count="1" Chance="1" />
+    <Item ItemId="40074" Count="1" Chance="6" />
+    <Item ItemId="40087" Count="1" Chance="6" />
+    <Item ItemId="40050" Count="3" Chance="9" />
+    <Item ItemId="40051" Count="3" Chance="9" />
+    <Item ItemId="40049" Count="3" Chance="9" />
+    <Item ItemId="40048" Count="3" Chance="9" />
+    <Item ItemId="40044" Count="5" Chance="12" />
+    <Item ItemId="40045" Count="5" Chance="12" />
+    <Item ItemId="40046" Count="5" Chance="12" />
+    <Item ItemId="40047" Count="5" Chance="12" />
+  </TreasureBox>
+
+  <!--열린 상급 오시리스의 보물상자-->
+  <TreasureBox Type="RANDOM" ItemId="433007">
+    <Item ItemId="415010" Count="1" Chance="1" />
+    <Item ItemId="415011" Count="1" Chance="1" />
+    <Item ItemId="415012" Count="1" Chance="1" />
+    <Item ItemId="415013" Count="1" Chance="1" />
+    <Item ItemId="140074" Count="1" Chance="4" />
+    <Item ItemId="140087" Count="1" Chance="4" />
+    <Item ItemId="40074" Count="1" Chance="4" />
+    <Item ItemId="40087" Count="1" Chance="4" />
+    <Item ItemId="40052" Count="1" Chance="4" />
+    <Item ItemId="40053" Count="1" Chance="4" />
+    <Item ItemId="40054" Count="1" Chance="4" />
+    <Item ItemId="40055" Count="1" Chance="4" />
+    <Item ItemId="40048" Count="3" Chance="9" />
+    <Item ItemId="40049" Count="3" Chance="9" />
+    <Item ItemId="40050" Count="3" Chance="9" />
+    <Item ItemId="40051" Count="3" Chance="9" />
+    <Item ItemId="40044" Count="5" Chance="7" />
+    <Item ItemId="40045" Count="5" Chance="7" />
+    <Item ItemId="40046" Count="5" Chance="7" />
+    <Item ItemId="40047" Count="5" Chance="7" />
+  </TreasureBox>
+
+   <!--열린 하급 쿠쿨칸의 보물상자-->
+  <TreasureBox Type="RANDOM" ItemId="433100">
+    <Item ItemId="415015" Count="1" Chance="1" />
+    <Item ItemId="415016" Count="1" Chance="1" />
+    <Item ItemId="420011" Count="1" Chance="1" />
+    <Item ItemId="420012" Count="1" Chance="1" />
+    <Item ItemId="40074" Count="1" Chance="6" />
+    <Item ItemId="40087" Count="1" Chance="6" />
+    <Item ItemId="40050" Count="3" Chance="9" />
+    <Item ItemId="40051" Count="3" Chance="9" />
+    <Item ItemId="40049" Count="3" Chance="9" />
+    <Item ItemId="40048" Count="3" Chance="9" />
+    <Item ItemId="40044" Count="5" Chance="12" />
+    <Item ItemId="40045" Count="5" Chance="12" />
+    <Item ItemId="40046" Count="5" Chance="12" />
+    <Item ItemId="40047" Count="5" Chance="12" />
+  </TreasureBox>
+
+  <!--열린 상급 쿠쿨칸의 보물상자-->
+  <TreasureBox Type="RANDOM" ItemId="433101">
+    <Item ItemId="415015" Count="1" Chance="1" />
+    <Item ItemId="415016" Count="1" Chance="1" />
+    <Item ItemId="420011" Count="1" Chance="1" />
+    <Item ItemId="420012" Count="1" Chance="1" />
+    <Item ItemId="140074" Count="1" Chance="4" />
+    <Item ItemId="140087" Count="1" Chance="4" />
+    <Item ItemId="40074" Count="1" Chance="4" />
+    <Item ItemId="40087" Count="1" Chance="4" />
+    <Item ItemId="40052" Count="1" Chance="4" />
+    <Item ItemId="40053" Count="1" Chance="4" />
+    <Item ItemId="40054" Count="1" Chance="4" />
+    <Item ItemId="40055" Count="1" Chance="4" />
+    <Item ItemId="40048" Count="3" Chance="9" />
+    <Item ItemId="40049" Count="3" Chance="9" />
+    <Item ItemId="40050" Count="3" Chance="9" />
+    <Item ItemId="40051" Count="3" Chance="9" />
+    <Item ItemId="40044" Count="5" Chance="7" />
+    <Item ItemId="40045" Count="5" Chance="7" />
+    <Item ItemId="40046" Count="5" Chance="7" />
+    <Item ItemId="40047" Count="5" Chance="7" />
+  </TreasureBox>
+
+  <!--아우라키아의 선물상자-->
+	<TreasureBox Type="RANDOM" ItemId="435004">
+		<Item ItemId="40308" Count="1000" Chance="20"/>
+		<Item ItemId="40308" Count="2000" Chance="12"/>
+		<Item ItemId="40308" Count="5000" Chance="8"/>		
+		<Item ItemId="40308" Count="10000" Chance="5"/>
+		<Item ItemId="40087" Count="1" Chance="6"/>
+		<Item ItemId="40074" Count="1" Chance="6"/>
+		<Item ItemId="140087" Count="1" Chance="2" />
+		<Item ItemId="140074" Count="1" Chance="2" />
+		<Item ItemId="430010" Count="1" Chance="5" />
+		<Item ItemId="430011" Count="1" Chance="5" />
+		<Item ItemId="430012" Count="1" Chance="5" />
+		<Item ItemId="430013" Count="1" Chance="5" />
+		<Item ItemId="430014" Count="1" Chance="5" />
+		<Item ItemId="423016" Count="1" Chance="7" />
+		<Item ItemId="423017" Count="1" Chance="7" />
+	</TreasureBox>
+
+	  <!--실렌의 선물상자-->
+	<TreasureBox Type="RANDOM" ItemId="435005">
+		<Item ItemId="40308" Count="1000" Chance="20"/>
+		<Item ItemId="40308" Count="2000" Chance="12"/>
+		<Item ItemId="40308" Count="5000" Chance="8"/>		
+		<Item ItemId="40308" Count="10000" Chance="5"/>
+		<Item ItemId="40087" Count="1" Chance="6"/>
+		<Item ItemId="40074" Count="1" Chance="6"/>
+		<Item ItemId="140087" Count="1" Chance="2" />
+		<Item ItemId="140074" Count="1" Chance="2" />
+		<Item ItemId="430010" Count="1" Chance="5" />
+		<Item ItemId="430011" Count="1" Chance="5" />
+		<Item ItemId="430012" Count="1" Chance="5" />
+		<Item ItemId="430013" Count="1" Chance="5" />
+		<Item ItemId="430014" Count="1" Chance="5" />
+		<Item ItemId="423018" Count="1" Chance="7" />
+		<Item ItemId="423019" Count="1" Chance="7" />
+	</TreasureBox>
+
+    <!--라블라의 주머니-->
+  <TreasureBox Type="SPECIFIC" ItemId="41004">
+    <Item ItemId="41005" Count="1" />
+  </TreasureBox>
+
+    <!--라보르의 주머니-->
+  <TreasureBox Type="RANDOM" ItemId="41006">
+ <Item ItemId="40090" Count="1" Chance="20" />
+    <Item ItemId="40091" Count="1" Chance="20" />
+    <Item ItemId="40092" Count="1" Chance="20" />
+    <Item ItemId="40093" Count="1" Chance="20" />
+    <Item ItemId="40094" Count="1" Chance="20" />
+  </TreasureBox>
+
+  <!--항해사의 봉투-->
+  <TreasureBox Type="RANDOM" ItemId="41059">
+    <Item ItemId="114" Count="1" Chance="0.4" />
+    <Item ItemId="204" Count="1" Chance="0.4" />
+    <Item ItemId="207" Count="1" Chance="0.4" />
+    <Item ItemId="40022" Count="10" Chance="14" />
+    <Item ItemId="40023" Count="10" Chance="10" />
+    <Item ItemId="40024" Count="10" Chance="2" />
+    <Item ItemId="40053" Count="1" Chance="6" />
+    <Item ItemId="40054" Count="1" Chance="6" />
+    <Item ItemId="40055" Count="1" Chance="6" />
+    <Item ItemId="40074" Count="1" Chance="3.6" />
+    <Item ItemId="40087" Count="1" Chance="3.6" />
+    <Item ItemId="40089" Count="1" Chance="7" />
+    <Item ItemId="40100" Count="1" Chance="5" />
+    <Item ItemId="40308" Count="10000" Chance="11" />
+    <Item ItemId="40308" Count="20000" Chance="8" />
+    <Item ItemId="40308" Count="30000" Chance="2" />
+    <Item ItemId="40308" Count="100000" Chance="0.6" />
+    <Item ItemId="40524" Count="3" Chance="3" />
+    <Item ItemId="40524" Count="5" Chance="2" />
+    <Item ItemId="40524" Count="10" Chance="1" />
+    <Item ItemId="140088" Count="3" Chance="2" />
+    <Item ItemId="140089" Count="3" Chance="6" />
+ </TreasureBox>
+
+ <!--펫 매치 선물 상자-->
+ <TreasureBox Type="RANDOM" ItemId="41416">
+    <Item ItemId="40308" Count="1000" Chance="20"/>
+		<Item ItemId="40308" Count="2000" Chance="14"/>
+		<Item ItemId="40308" Count="5000" Chance="8"/>		
+		<Item ItemId="430009" Count="5" Chance="10"/>
+		<Item ItemId="40087" Count="1" Chance="4"/>
+		<Item ItemId="40074" Count="1" Chance="3"/>
+		<Item ItemId="140087" Count="1" Chance="2" />
+		<Item ItemId="140074" Count="1" Chance="2" />
+		<Item ItemId="430010" Count="1" Chance="5" />
+		<Item ItemId="430011" Count="1" Chance="5" />
+		<Item ItemId="430012" Count="1" Chance="5" />
+		<Item ItemId="430013" Count="1" Chance="5" />
+		<Item ItemId="430014" Count="1" Chance="5" />
+		<Item ItemId="430009" Count="5" Chance="7" />
+		<Item ItemId="435006" Count="1" Chance="5" />
+  </TreasureBox>
+
+   <!--데스 매치 기념품 상자-->
+ <TreasureBox Type="RANDOM" ItemId="435007">
+    <Item ItemId="40308" Count="1000" Chance="20"/>
+		<Item ItemId="40308" Count="2000" Chance="14"/>
+		<Item ItemId="40308" Count="5000" Chance="8"/>		
+		<Item ItemId="430009" Count="5" Chance="5"/>
+		<Item ItemId="40087" Count="1" Chance="6"/>
+		<Item ItemId="40074" Count="1" Chance="6"/>
+		<Item ItemId="140087" Count="1" Chance="2" />
+		<Item ItemId="140074" Count="1" Chance="2" />
+		<Item ItemId="430010" Count="1" Chance="5" />
+		<Item ItemId="430011" Count="1" Chance="5" />
+		<Item ItemId="430012" Count="1" Chance="5" />
+		<Item ItemId="430013" Count="1" Chance="5" />
+		<Item ItemId="430014" Count="1" Chance="5" />
+		<Item ItemId="430009" Count="5" Chance="7" />
+		<Item ItemId="435006" Count="1" Chance="5" />
+  </TreasureBox>
+
+   <!--신비한 큐브-->
+ <TreasureBox Type="RANDOM" ItemId="437000">
+    <Item ItemId="40308" Count="10000" Chance="3"/>
+	<Item ItemId="40308" Count="5000" Chance="5"/>
+	<Item ItemId="40308" Count="2000" Chance="6"/>
+	<Item ItemId="40308" Count="1000" Chance="10"/>
+	<Item ItemId="40012" Count="5" Chance="2"/>
+	<Item ItemId="40011" Count="6" Chance="4"/>
+	<Item ItemId="40013" Count="5" Chance="5"/>
+	<Item ItemId="40068" Count="5" Chance="3"/>
+	<Item ItemId="40010" Count="10" Chance="10"/>
+	<Item ItemId="40074" Count="1" Chance="2"/>
+	<Item ItemId="40087" Count="1" Chance="2"/>
+	<Item ItemId="40088" Count="3" Chance="3"/>
+	<Item ItemId="40090" Count="5" Chance="4"/>
+	<Item ItemId="40091" Count="5" Chance="3"/>
+	<Item ItemId="40092" Count="5" Chance="3"/>
+	<Item ItemId="40093" Count="5" Chance="2"/>
+	<Item ItemId="40094" Count="5" Chance="2"/>
+	<Item ItemId="140087" Count="1" Chance="0.5"/>
+	<Item ItemId="140074" Count="1" Chance="0.5"/>
+	<Item ItemId="40899" Count="5" Chance="6"/>
+	<Item ItemId="40524" Count="3" Chance="2"/>
+	<Item ItemId="40444" Count="2" Chance="2"/>
+	<Item ItemId="40458" Count="5" Chance="3"/>
+	<Item ItemId="40318" Count="10" Chance="3"/>
+	<Item ItemId="40319" Count="10" Chance="3"/>
+	<Item ItemId="40320" Count="10" Chance="3"/>
+	<Item ItemId="40746" Count="1000" Chance="2"/>
+	<Item ItemId="40747" Count="700" Chance="1"/>
+	<Item ItemId="40748" Count="500" Chance="1"/>
+	<Item ItemId="40744" Count="2000" Chance="4"/>
+  </TreasureBox>
+
+  <!-- 에브롤의 주머니 -->
+  <TreasureBox Type="RANDOM" ItemId="41336">
+	<Item ItemId="41337" Count="1" Chance="17"/>
+	<Item ItemId="41337" Count="2" Chance="17"/>
+	<Item ItemId="41337" Count="3" Chance="16"/>
+	<Item ItemId="41338" Count="1" Chance="17"/>
+	<Item ItemId="41338" Count="2" Chance="17"/>
+	<Item ItemId="41338" Count="3" Chance="16"/>
+  </TreasureBox>
+
+   <!--로이의 주머니-->
+  <TreasureBox Type="RANDOM" ItemId="41003">
+    <Item ItemId="40089" Count="1" Chance="20" />
+    <Item ItemId="40015" Count="1" Chance="20" />
+    <Item ItemId="40016" Count="1" Chance="20" />
+    <Item ItemId="40088" Count="1" Chance="20" />
+    <Item ItemId="40308" Count="10000" Chance="20" />
+  </TreasureBox>
+
+  <!-- 데스 매치 물약 상자-->
+  <TreasureBox Type="SPECIFIC" ItemId="435008">
+	<Item ItemId="40020" Count="80"/>
+	<Item ItemId="40018" Count="10"/>
+	<Item ItemId="40031" Count="10"/>
+	<Item ItemId="40014" Count="8"/>
+	<Item ItemId="40068" Count="8"/>
+	<Item ItemId="40015" Count="3"/>
+	<Item ItemId="40088" Count="10"/>
+	<Item ItemId="40318" Count="7"/>
+	<Item ItemId="40319" Count="7"/>
+	<Item ItemId="40321" Count="7"/>
+	</TreasureBox>
+	
+ <!-- 원정 대원의 유품 -->
+<TreasureBox Type="RANDOM" ItemId="40696">
+	<Item ItemId="40679" Count="1" Chance="20" />
+	<Item ItemId="40680" Count="1" Chance="16" />
+	<Item ItemId="40681" Count="1" Chance="16" />
+	<Item ItemId="40682" Count="1" Chance="16" />
+	<Item ItemId="40683" Count="1" Chance="16" />
+	<Item ItemId="40684" Count="1" Chance="16" />
+</TreasureBox>
+
+ <!-- 아이스 데몬의 주머니 -->
+	<TreasureBox Type="RANDOM" ItemId="49032">
+		<Item ItemId="49034" Count="1" Chance="1" />
+		<Item ItemId="40308" Count="2000" Chance="15" />
+		<Item ItemId="40308" Count="5000" Chance="15" />
+		<Item ItemId="40308" Count="10000" Chance="15" />
+		<Item ItemId="40308" Count="100000" Chance="5" />
+		<Item ItemId="40015" Count="7" Chance="11" />
+		<Item ItemId="40016" Count="7" Chance="11" />
+		<Item ItemId="40018" Count="7" Chance="11" />
+		<Item ItemId="40068" Count="3" Chance="5" />
+		<Item ItemId="40088" Count="5" Chance="11" />
+	</TreasureBox>
+
+	<!-- 얼음 여왕의 주머니 -->
+	<TreasureBox Type="RANDOM" ItemId="49033">
+		<Item ItemId="49034" Count="1" Chance="2" />
+		<Item ItemId="40308" Count="2000" Chance="11" />
+		<Item ItemId="40308" Count="5000" Chance="11" />
+		<Item ItemId="40308" Count="10000" Chance="11" />
+		<Item ItemId="40308" Count="100000" Chance="10" />
+		<Item ItemId="40015" Count="7" Chance="11" />
+		<Item ItemId="40016" Count="7" Chance="11" />
+		<Item ItemId="40018" Count="7" Chance="11" />
+		<Item ItemId="40068" Count="3" Chance="11" />
+		<Item ItemId="40088" Count="5" Chance="11" />
+	</TreasureBox>
+
+	<!-- 얼음 여왕의 상자 -->
+	<TreasureBox Type="RANDOM" ItemId="49034">
+		<Item ItemId="40" Count="1" Chance="3.88" />
+		<Item ItemId="55" Count="1" Chance="3.88" />
+		<Item ItemId="57" Count="1" Chance="3.88" />
+		<Item ItemId="81" Count="1" Chance="3.88" />
+		<Item ItemId="130" Count="1" Chance="3.88" />
+		<Item ItemId="162" Count="1" Chance="3.88" />
+		<Item ItemId="177" Count="1" Chance="3.88" />
+		<Item ItemId="189" Count="1" Chance="0.54" />
+		<Item ItemId="20010" Count="1" Chance="0.94" />
+		<Item ItemId="20042" Count="1" Chance="0.94" />
+		<Item ItemId="20100" Count="1" Chance="0.94" />
+		<Item ItemId="20151" Count="1" Chance="0.94" />
+		<Item ItemId="20185" Count="1" Chance="0.94" />
+		<Item ItemId="20166" Count="1" Chance="0.94" />
+		<Item ItemId="20198" Count="1" Chance="0.94" />
+		<Item ItemId="20215" Count="1" Chance="0.94" />
+		<Item ItemId="20254" Count="1" Chance="3.88" />
+		<Item ItemId="20256" Count="1" Chance="3.88" />
+		<Item ItemId="20264" Count="1" Chance="3.88" />
+		<Item ItemId="20266" Count="1" Chance="0.94" />
+		<Item ItemId="20267" Count="1" Chance="4.88" />
+		<Item ItemId="20268" Count="1" Chance="3.88" />
+		<Item ItemId="20280" Count="1" Chance="0.94" />
+		<Item ItemId="20281" Count="1" Chance="0.94" />
+		<Item ItemId="20284" Count="1" Chance="3.88" />
+		<Item ItemId="20285" Count="1" Chance="0.94" />
+		<Item ItemId="20288" Count="1" Chance="0.54" />
+		<Item ItemId="20302" Count="1" Chance="0.94" />
+		<Item ItemId="20303" Count="1" Chance="3.88" />
+		<Item ItemId="20309" Count="1" Chance="3.88" />
+		<Item ItemId="20310" Count="1" Chance="3.88" />
+		<Item ItemId="20311" Count="1" Chance="3.88" />
+		<Item ItemId="40074" Count="1" Chance="5.45" />
+		<Item ItemId="40087" Count="1" Chance="5.45" />
+		<Item ItemId="40219" Count="1" Chance="0.54" />
+		<Item ItemId="40223" Count="1" Chance="0.54" />
+		<Item ItemId="140074" Count="1" Chance="3.88" />
+		<Item ItemId="140087" Count="1" Chance="3.88" />
+	</TreasureBox>
+
+<!--보스황금상자-->
+<TreasureBox Type="RANDOM" ItemId="438001">
+    <Item ItemId="3500069" Count="1" Chance="2" /> 
+    <Item ItemId="120007" Count="1" Chance="3" />
+    <Item ItemId="120052" Count="1" Chance="3" />
+    <Item ItemId="120223" Count="1" Chance="2.3" />
+    <Item ItemId="20034" Count="1" Chance="3" />
+    <Item ItemId="20072" Count="1" Chance="3" />
+    <Item ItemId="20108" Count="1" Chance="1.8" /> 
+    <Item ItemId="20119" Count="1" Chance="2.0" />
+    <Item ItemId="20130" Count="1" Chance="1.8" /> 
+    <Item ItemId="20153" Count="1" Chance="1.9" /> 
+    <Item ItemId="20200" Count="1" Chance="0.5" /> 
+    <Item ItemId="20178" Count="1" Chance="0.5" /> 
+    <Item ItemId="20057" Count="1" Chance="0.4" />  
+    <Item ItemId="20255" Count="1" Chance="0.5" />
+    <Item ItemId="20218" Count="1" Chance="0.5" />
+    <Item ItemId="40308" Count="1000000" Chance="6" />
+    <Item ItemId="40308" Count="500000" Chance="6" />
+    <Item ItemId="41159" Count="200" Chance="4.2" />
+    <Item ItemId="41159" Count="300" Chance="3" />
+    <Item ItemId="40033" Count="1" Chance="0.7" />
+    <Item ItemId="40034" Count="1" Chance="0.7" />
+    <Item ItemId="40035" Count="1" Chance="0.7" />
+    <Item ItemId="40036" Count="1" Chance="0.7" />
+    <Item ItemId="40037" Count="1" Chance="0.7" />
+    <Item ItemId="40038" Count="1" Chance="0.7" />
+    <Item ItemId="100084" Count="1" Chance="0.7" />
+    <Item ItemId="100164" Count="1" Chance="0.7" />
+    <Item ItemId="100189" Count="1" Chance="0.8" />
+    <Item ItemId="58" Count="1" Chance="0.1" />
+    <Item ItemId="54" Count="1" Chance="0.1" />
+    <Item ItemId="47" Count="1" Chance="0.1" />
+    <Item ItemId="412002" Count="1" Chance="0.7" />
+    <Item ItemId="415011" Count="1" Chance="0.7" />
+    <Item ItemId="415012" Count="1" Chance="0.7" />
+    <Item ItemId="415013" Count="1" Chance="0.7" />
+    <Item ItemId="412004" Count="1" Chance="0.7" />
+    <Item ItemId="111" Count="1" Chance="0.8" />
+    <Item ItemId="124" Count="1" Chance="0.8" />
+    <Item ItemId="127" Count="1" Chance="0.8" />
+    <Item ItemId="120011" Count="1" Chance="2.7" />
+    <Item ItemId="120056" Count="1" Chance="2.7" />
+    <Item ItemId="412003" Count="1" Chance="0.8" />
+    <Item ItemId="420012" Count="1" Chance="0.8" />
+    <Item ItemId="40043" Count="5" Chance="0.8" />
+    <Item ItemId="100062" Count="1" Chance="3.1" />
+    <Item ItemId="100009" Count="1" Chance="1" />
+    <Item ItemId="190" Count="1" Chance="0.8" />
+    <Item ItemId="64" Count="1" Chance="0.8" />
+    <Item ItemId="294" Count="1" Chance="1.6" />    
+    <Item ItemId="20253" Count="1" Chance="0.8" />
+    <Item ItemId="40066" Count="10" Chance="0.8" />
+    <Item ItemId="20049" Count="1" Chance="0.5" />
+    <Item ItemId="20050" Count="1" Chance="0.5" />
+    <Item ItemId="40308" Count="100000" Chance="2.5" />
+    <Item ItemId="40308" Count="200000" Chance="3.5" />
+    <Item ItemId="40308" Count="300000" Chance="2.5" />
+    <Item ItemId="40308" Count="50000" Chance="2.5" />
+    <Item ItemId="40308" Count="200000" Chance="2.5" />
+    <Item ItemId="256" Count="1" Chance="1.2" />
+    <Item ItemId="412001" Count="1" Chance="0.8" />
+    <Item ItemId="100057" Count="1" Chance="0.8" />
+    <Item ItemId="412000" Count="1" Chance="0.8" />
+    <Item ItemId="412005" Count="1" Chance="1" />
+    <Item ItemId="20186" Count="1" Chance="0.3" />
+    <Item ItemId="20216" Count="1" Chance="0.4" />
+    <Item ItemId="20076" Count="1" Chance="0.4" />
+    <Item ItemId="20190" Count="1" Chance="0.3" />
+    <Item ItemId="20048" Count="1" Chance="0.3" />
+    <Item ItemId="420002" Count="1" Chance="0.5" />
+    <Item ItemId="420000" Count="1" Chance="0.5" />
+    <Item ItemId="420003" Count="1" Chance="0.5" />
+    <Item ItemId="20133" Count="1" Chance="0.5" />
+    <Item ItemId="119" Count="1" Chance="0.5" />
+    <Item ItemId="40308" Count="5000000" Chance="2" />
+</TreasureBox>
+
+ <!--레어무기 보물상자   Enchant="9"  -->
+  <TreasureBox Type="RANDOM" ItemId="430530">
+    <Item ItemId="3500069" Count="1" Chance="19" />
+    <Item ItemId="430531" Count="1" Chance="18" />
+    <Item ItemId="430532" Count="1" Chance="18" />
+    <Item ItemId="57" Count="1" Chance="3" />
+    <Item ItemId="49" Count="1" Chance="3" />
+    <Item ItemId="62" Count="1" Chance="3" />
+    <Item ItemId="9" Count="1" Chance="3" />
+    <Item ItemId="127" Count="1" Chance="3" />
+    <Item ItemId="20133" Count="1" Chance="3" />
+    <Item ItemId="49" Count="1" Chance="3" />
+    <Item ItemId="20074" Count="1" Chance="3" />
+    <Item ItemId="420012" Count="1" Chance="3" />
+    <Item ItemId="20167" Count="1" Chance="3" />
+    <Item ItemId="20050" Count="1" Chance="3" />
+    <Item ItemId="20108" Count="1" Chance="3" />
+    <Item ItemId="20119" Count="1" Chance="3" />
+    <Item ItemId="20130" Count="1" Chance="3" />
+    <Item ItemId="20153" Count="1" Chance="3" />
+  </TreasureBox>
+
+   <!--숨겨진 마족의 무기함-->
+  <TreasureBox Type="RANDOM" ItemId="3500069">
+    <Item ItemId="450010" Count="1" Chance="17" />
+    <Item ItemId="450011" Count="1" Chance="16" />
+    <Item ItemId="450012" Count="1" Chance="17" />
+    <Item ItemId="450013" Count="1" Chance="16" />
+    <Item ItemId="450014" Count="1" Chance="17" />
+    <Item ItemId="450015" Count="1" Chance="17" />
+  </TreasureBox>
+
+<!-- 인형 재료 상자 -->
+<TreasureBox Type="RANDOM" ItemId="438002">	
+	<Item ItemId="41159" Count="300" Chance="30" />
+	<Item ItemId="41251" Count="1" Chance="15" />
+	<Item ItemId="41252" Count="1" Chance="25" />
+	<Item ItemId="41253" Count="1" Chance="20" />
+	<Item ItemId="41254" Count="1" Chance="10" />
+</TreasureBox>
+
+<!-- 변신 상자 -->
+	<TreasureBox Type="RANDOM" ItemId="438003">	
+	<Item ItemId="20350" Count="1" Chance="3" />
+        <Item ItemId="20420" Count="1" Chance="5" />
+	<Item ItemId="20346" Count="1" Chance="4" />
+	<Item ItemId="20079" Count="1" Chance="4" />
+	<Item ItemId="20342" Count="1" Chance="4" />
+	<Item ItemId="20343" Count="1" Chance="4" />
+	<Item ItemId="20345" Count="1" Chance="4" />
+	<Item ItemId="20347" Count="1" Chance="5" />
+	<Item ItemId="20348" Count="1" Chance="5" />
+	<Item ItemId="20349" Count="1" Chance="5" />
+	<Item ItemId="20382" Count="1" Chance="4" />
+	<Item ItemId="20456" Count="1" Chance="5" />
+	<Item ItemId="20457" Count="1" Chance="5" />
+	<Item ItemId="20458" Count="1" Chance="5" />
+	<Item ItemId="20419" Count="1" Chance="5" />
+	<Item ItemId="423016" Count="1" Chance="4" />
+	<Item ItemId="423017" Count="1" Chance="4" />
+	<Item ItemId="423018" Count="1" Chance="4" />
+	<Item ItemId="423019" Count="1" Chance="4" />
+	<Item ItemId="421005" Count="1" Chance="7" />
+	<Item ItemId="421023" Count="1" Chance="3" />
+	<Item ItemId="421011" Count="1" Chance="3" />
+	<Item ItemId="421008" Count="1" Chance="4" />
+</TreasureBox>
+
+<!-- 떡바구니 -->
+<TreasureBox Type="SPECIFIC" ItemId="435014">	
+	<Item ItemId="40066" Count="5" />
+	<Item ItemId="40067" Count="3" />
+	<Item ItemId="435015" Count="1" />	
+</TreasureBox>
+
+
+<!-- 마법상자군주 -->
+<TreasureBox Type="SPECIFIC" ItemId="430513">	
+	<Item ItemId="40226" Count="1" />
+	<Item ItemId="40227" Count="1" />
+	<Item ItemId="40228" Count="1" />	
+	<Item ItemId="40229" Count="1" />
+	<Item ItemId="40230" Count="1" />
+	<Item ItemId="40231" Count="1" />	
+</TreasureBox>
+
+<!-- 마법상자기사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430514">	
+	<Item ItemId="40164" Count="1" />
+	<Item ItemId="40165" Count="1" />
+</TreasureBox>
+
+<!-- 마법상자요정 -->
+<TreasureBox Type="SPECIFIC" ItemId="430508">
+	<Item ItemId="40232" Count="1" />
+	<Item ItemId="40233" Count="1" />
+	<Item ItemId="40234" Count="1" />
+	<Item ItemId="40235" Count="1" />
+	<Item ItemId="40236" Count="1" />
+	<Item ItemId="40237" Count="1" />
+	<Item ItemId="40240" Count="1" />
+	<Item ItemId="40241" Count="1" />
+	<Item ItemId="40242" Count="1" />	
+</TreasureBox>
+
+<!-- 마법상자 땅요정 -->
+<TreasureBox Type="SPECIFIC" ItemId="430519">
+	<Item ItemId="40247" Count="1" />
+	<Item ItemId="40248" Count="1" />
+	<Item ItemId="40250" Count="1" />
+	<Item ItemId="40251" Count="1" />
+	<Item ItemId="40252" Count="1" />	
+</TreasureBox>
+
+<!-- 마법상자 물요정 -->
+<TreasureBox Type="SPECIFIC" ItemId="430520">
+	<Item ItemId="40253" Count="1" />
+	<Item ItemId="40254" Count="1" />
+	<Item ItemId="40255" Count="1" />	
+</TreasureBox>
+
+<!-- 마법상자 불요정 -->
+<TreasureBox Type="SPECIFIC" ItemId="430521">
+	<Item ItemId="40256" Count="1" />
+	<Item ItemId="40257" Count="1" />
+	<Item ItemId="40258" Count="1" />
+	<Item ItemId="40259" Count="1" />	
+</TreasureBox>
+
+<!-- 마법상자 바람요정 -->
+<TreasureBox Type="SPECIFIC" ItemId="430522">
+	<Item ItemId="40260" Count="1" />
+	<Item ItemId="40261" Count="1" />
+	<Item ItemId="40262" Count="1" />
+	<Item ItemId="40263" Count="1" />
+	<Item ItemId="40264" Count="1" />	
+</TreasureBox>
+
+<!-- 마법상자 4단계 법사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430507">
+	<Item ItemId="40170" Count="1" />
+	<Item ItemId="40171" Count="1" />
+	<Item ItemId="40172" Count="1" />
+	<Item ItemId="40173" Count="1" />
+	<Item ItemId="40174" Count="1" />
+	<Item ItemId="40175" Count="1" />
+	<Item ItemId="40176" Count="1" />
+	<Item ItemId="40177" Count="1" />
+</TreasureBox>
+<!-- 마법상자 5단계 법사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430513">
+	<Item ItemId="40178" Count="1" />
+	<Item ItemId="40179" Count="1" />
+	<Item ItemId="40180" Count="1" />
+	<Item ItemId="40181" Count="1" />
+	<Item ItemId="40182" Count="1" />
+	<Item ItemId="40183" Count="1" />
+	<Item ItemId="40184" Count="1" />
+	<Item ItemId="40185" Count="1" />
+</TreasureBox>
+<!-- 마법상자 6단계 법사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430514">
+	<Item ItemId="40186" Count="1" />
+	<Item ItemId="40187" Count="1" />
+	<Item ItemId="40188" Count="1" />
+	<Item ItemId="40189" Count="1" />
+	<Item ItemId="40190" Count="1" />
+	<Item ItemId="40191" Count="1" />
+	<Item ItemId="40192" Count="1" />
+	<Item ItemId="40193" Count="1" />
+</TreasureBox>
+<!-- 마법상자 7단계 법사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430515">
+	<Item ItemId="40194" Count="1" />
+	<Item ItemId="40195" Count="1" />
+	<Item ItemId="40196" Count="1" />
+	<Item ItemId="40197" Count="1" />
+	<Item ItemId="40198" Count="1" />
+	<Item ItemId="40199" Count="1" />
+	<Item ItemId="40200" Count="1" />
+	<Item ItemId="40201" Count="1" />
+</TreasureBox>
+<!-- 마법상자 8단계 법사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430516">
+	<Item ItemId="40202" Count="1" />
+	<Item ItemId="40203" Count="1" />
+	<Item ItemId="40204" Count="1" />
+	<Item ItemId="40205" Count="1" />
+	<Item ItemId="40206" Count="1" />
+	<Item ItemId="40207" Count="1" />
+	<Item ItemId="40208" Count="1" />
+</TreasureBox>
+<!-- 마법상자 9단계 법사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430517">
+	<Item ItemId="40210" Count="1" />
+	<Item ItemId="40211" Count="1" />
+	<Item ItemId="40212" Count="1" />
+	<Item ItemId="40213" Count="1" />
+	<Item ItemId="40214" Count="1" />
+	<Item ItemId="40215" Count="1" />
+	<Item ItemId="40216" Count="1" />
+	<Item ItemId="40217" Count="1" />
+</TreasureBox>
+<!-- 마법상자 10단계 법사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430518">
+	<Item ItemId="40218" Count="1" />
+	<Item ItemId="40219" Count="1" />
+	<Item ItemId="40220" Count="1" />
+	<Item ItemId="40221" Count="1" />
+	<Item ItemId="40223" Count="1" />
+	<Item ItemId="40224" Count="1" />
+	<Item ItemId="40225" Count="1" />
+</TreasureBox>
+
+<!-- 마법상자 다엘 -->
+<TreasureBox Type="SPECIFIC" ItemId="430512">
+	<Item ItemId="40265" Count="1" />
+	<Item ItemId="40266" Count="1" />
+	<Item ItemId="40267" Count="1" />
+	<Item ItemId="40269" Count="1" />
+	<Item ItemId="40271" Count="1" />
+	<Item ItemId="40272" Count="1" />
+	<Item ItemId="40273" Count="1" />
+	<Item ItemId="40274" Count="1" />
+	<Item ItemId="40275" Count="1" />
+	<Item ItemId="40277" Count="1" />
+	<Item ItemId="40278" Count="1" />
+	<Item ItemId="40279" Count="1" />
+</TreasureBox>
+
+<!-- 마법상자 용기사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430510">
+	<Item ItemId="439100" Count="1" />
+	<Item ItemId="439101" Count="1" />
+	<Item ItemId="439102" Count="1" />
+	<Item ItemId="439103" Count="1" />
+	<Item ItemId="439104" Count="1" />
+	<Item ItemId="439105" Count="1" />
+	<Item ItemId="439106" Count="1" />
+	<Item ItemId="439107" Count="1" />
+	<Item ItemId="439108" Count="1" />
+	<Item ItemId="439109" Count="1" />
+	<Item ItemId="439110" Count="1" />
+	<Item ItemId="439111" Count="1" />
+	<Item ItemId="439112" Count="1" />
+	<Item ItemId="439113" Count="1" />
+	<Item ItemId="439114" Count="1" />
+</TreasureBox>
+
+<!-- 마법상자 환술사 -->
+<TreasureBox Type="SPECIFIC" ItemId="430509">
+	<Item ItemId="439000" Count="1" />
+	<Item ItemId="439001" Count="1" />
+	<Item ItemId="439002" Count="1" />
+	<Item ItemId="439003" Count="1" />
+	<Item ItemId="439004" Count="1" />
+	<Item ItemId="439005" Count="1" />
+	<Item ItemId="439006" Count="1" />
+	<Item ItemId="439007" Count="1" />
+	<Item ItemId="439008" Count="1" />
+	<Item ItemId="439009" Count="1" />
+	<Item ItemId="439010" Count="1" />
+	<Item ItemId="439011" Count="1" />
+	<Item ItemId="439012" Count="1" />
+	<Item ItemId="439013" Count="1" />
+	<Item ItemId="439014" Count="1" />
+	<Item ItemId="439015" Count="1" />
+	<Item ItemId="439016" Count="1" />
+	<Item ItemId="439017" Count="1" />
+	<Item ItemId="439018" Count="1" />
+	<Item ItemId="439019" Count="1" />
+</TreasureBox>
+
+
+<!-- 드루가 가방 -->
+<TreasureBox Type="RANDOM" ItemId="430117">	
+	<Item ItemId="40020" Count="30" Chance="3" />
+	<Item ItemId="40023" Count="30" Chance="10" />
+	<Item ItemId="40499" Count="20" Chance="10" />
+	<Item ItemId="40021" Count="20" Chance="8" />
+	<Item ItemId="40024" Count="20" Chance="8" />
+	<Item ItemId="40015" Count="10" Chance="9" />
+	<Item ItemId="40506" Count="20" Chance="8" />
+	<Item ItemId="41263" Count="20" Chance="5" />
+	<Item ItemId="100026" Count="1" Chance="3" />
+	<Item ItemId="100144" Count="1" Chance="2" />
+	<Item ItemId="120007" Count="1" Chance="3" />
+	<Item ItemId="120052" Count="1" Chance="3" />
+	<Item ItemId="120223" Count="1" Chance="3" />
+	<Item ItemId="430122" Count="1" Chance="2" />
+	<Item ItemId="430123" Count="1" Chance="2" />
+	<Item ItemId="430124" Count="1" Chance="1" />
+	<Item ItemId="430125" Count="1" Chance="2" />
+	<Item ItemId="40513" Count="1" Chance="5" />
+	<Item ItemId="430117" Count="1" Chance="2.9" />
+	<Item ItemId="430116" Count="1" Chance="10.1" />
+</TreasureBox>
+
+<!-- 11th 블랙 에디션 패키지 -->
+<TreasureBox Type="SPECIFIC" ItemId="437014">	
+	<Item ItemId="423020" Count="1" />
+	<Item ItemId="423021" Count="1" />	
+</TreasureBox>
+
+<!-- 11th 화이트 에디션 패키지 -->
+<TreasureBox Type="SPECIFIC" ItemId="437015">	
+	<Item ItemId="423020" Count="1" />
+	<Item ItemId="423022" Count="1" />	
+</TreasureBox>
+
+<!-- 11th 레드 에디션 패키지 -->
+<TreasureBox Type="SPECIFIC" ItemId="437016">	
+	<Item ItemId="423020" Count="1" />
+	<Item ItemId="423023" Count="1" />	
+</TreasureBox>
+
+<!-- 생일 축하 선물 -->
+<TreasureBox Type="RANDOM" ItemId="5000124">		
+	<Item ItemId="5000121" Count="1" Chance="20" />
+	<Item ItemId="40308" Count="100000" Chance="20" />
+	<Item ItemId="41159" Count="10" Chance="14" />
+	<Item ItemId="40074" Count="1" Chance="20" />
+	<Item ItemId="40087" Count="1" Chance="20" />
+	<Item ItemId="140087" Count="1" Chance="3" />
+	<Item ItemId="140074" Count="1" Chance="3" />
+        </TreasureBox>
+
+ <!-- 메티스의 케이크 상자 -->
+  <TreasureBox Type="RANDOM" ItemId="5000132">
+    <Item ItemId="5000125" Count="1" Chance="16" />
+    <Item ItemId="5000126" Count="1" Chance="16" />
+    <Item ItemId="5000127" Count="1" Chance="16" />
+    <Item ItemId="5000128" Count="1" Chance="20" />
+    <Item ItemId="5000129" Count="1" Chance="16" />
+    <Item ItemId="5000130" Count="1" Chance="16" />
+        </TreasureBox>
+
+ <!-- 메티스의 두번째 선물 -->
+  <TreasureBox Type="RANDOM" ItemId="5000134">
+    <Item ItemId="140087" Count="1" Chance="50" />
+    <Item ItemId="140074" Count="1" Chance="50" />
+  </TreasureBox>
+
+<!-- 생일 버프 교환권 상자 -->
+<TreasureBox Type="SPECIFIC" ItemId="5000136">		
+	<Item ItemId="5000141" Count="1" />
+        </TreasureBox>
+
+<!-- 군주 기술서 모음 -->
+<TreasureBox Type="SPECIFIC" ItemId="430511">
+	<Item ItemId="40227" Count="1" />
+	<Item ItemId="40228" Count="1" />
+	<Item ItemId="40229" Count="1" />
+	<Item ItemId="40230" Count="1" />
+	<Item ItemId="40231" Count="1" />
+</TreasureBox>
+
+<!-- 하딘의 비밀 보따리 -->
+        <TreasureBox Type="RANDOM" ItemId="500099">
+	<Item ItemId="500080" Count="1" Chance="9" />
+	<Item ItemId="500081" Count="1" Chance="9" />
+	<Item ItemId="500082" Count="1" Chance="9" />
+	<Item ItemId="500083" Count="1" Chance="9" />
+	<Item ItemId="500084" Count="1" Chance="9" />
+	<Item ItemId="500085" Count="1" Chance="9" />
+	<Item ItemId="500086" Count="1" Chance="8" />
+	<Item ItemId="500087" Count="1" Chance="8" />
+	<Item ItemId="500088" Count="1" Chance="3" />
+	<Item ItemId="500089" Count="1" Chance="3" />
+	<Item ItemId="500090" Count="1" Chance="3" />
+	<Item ItemId="500091" Count="1" Chance="3" />
+	<Item ItemId="500092" Count="1" Chance="3" />
+	<Item ItemId="500093" Count="1" Chance="3" />
+	<Item ItemId="500094" Count="1" Chance="3" />
+	<Item ItemId="500095" Count="1" Chance="3" />
+	<Item ItemId="500096" Count="1" Chance="3" />
+	<Item ItemId="500097" Count="1" Chance="3" />
+        </TreasureBox>
+
+  <!-- 케레니스 선물상자 -->
+<TreasureBox Type="RANDOM" ItemId="5000163"> 
+<Item ItemId="40015" Count="1" Chance="15" />
+<Item ItemId="40088" Count="1" Chance="11" />
+<Item ItemId="140088" Count="1" Chance="9" />
+<Item ItemId="41247" Count="1" Chance="2" />
+<Item ItemId="41402" Count="1" Chance="9" />
+<Item ItemId="41252" Count="1" Chance="9" />
+<Item ItemId="41251" Count="1" Chance="9" />
+<Item ItemId="5000157" Count="1" Chance="9" />
+<Item ItemId="5000158" Count="1" Chance="9" />
+<Item ItemId="5000159" Count="1" Chance="9" />
+<Item ItemId="5000160" Count="1" Chance="9" />
+</TreasureBox>
+
+<!-- 케레니스 변신 주머니 -->
+<TreasureBox Type="SPECIFIC" ItemId="5000164"> 
+<Item ItemId="5000157" Count="1" />
+<Item ItemId="5000158" Count="1" />
+<Item ItemId="5000159" Count="1" />
+<Item ItemId="5000160" Count="1" />
+</TreasureBox>
+
+ <!-- 2011년 할로윈 이벤트 사탕 바구니 -->
+  <TreasureBox Type="RANDOM" ItemId="5000166">
+    <Item ItemId="435000" Count="1" Chance="5"/>
+    <Item ItemId="5000169" Count="1" Chance="19"/>
+    <Item ItemId="5000170" Count="1" Chance="19"/>
+    <Item ItemId="5000171" Count="1" Chance="19"/>
+    <Item ItemId="5000172" Count="1" Chance="19"/>
+    <Item ItemId="5000173" Count="1" Chance="19"/>
+  </TreasureBox>
+
+    <!-- 2011년 할로윈 이벤트 할로윈 호박 상자 2011 -->
+  <TreasureBox Type="RANDOM" ItemId="5000165">
+    <Item ItemId="5000167" Count="1" Chance="20"/>
+    <Item ItemId="5000168" Count="1" Chance="20"/>
+    <Item ItemId="500011" Count="1" Chance="4"/>
+    <Item ItemId="500012" Count="1" Chance="4"/>
+    <Item ItemId="450031" Count="1" Chance="4"/>
+    <Item ItemId="450032" Count="1" Chance="4"/>
+    <Item ItemId="450033" Count="1" Chance="4"/>
+    <Item ItemId="256" Count="1" Chance="10"/>
+    <Item ItemId="40308" Count="100000" Chance="10"/>
+    <Item ItemId="41159" Count="50" Chance="10"/>
+    <Item ItemId="435000" Count="1" Chance="10"/>
+  </TreasureBox>
+
+    <!-- 2011년 할로윈 이벤트 신비한 무기 마법 주머니 -->
+  <TreasureBox Type="RANDOM" ItemId="5000167">
+    <Item ItemId="40087" Count="1" Chance="70"/>
+    <Item ItemId="140087" Count="1" Chance="10"/>
+    <Item ItemId="240087" Count="1" Chance="20"/>
+  </TreasureBox>
+
+    <!-- 2011년 할로윈 이벤트 신비한 갑옷 마법 주머니 -->
+  <TreasureBox Type="RANDOM" ItemId="5000168">
+    <Item ItemId="5000174" Count="1" Chance="30"/>
+    <Item ItemId="40074" Count="1" Chance="40"/>
+    <Item ItemId="140074" Count="1" Chance="10"/>
+    <Item ItemId="240074" Count="1" Chance="20"/>
+  </TreasureBox>    
+<!-- 신비한프리즘 주머니 -->
+  <TreasureBox Type="RANDOM" ItemId="555582">    
+    <Item ItemId="430503" Count="1" Chance="25"/>
+    <Item ItemId="430504" Count="1" Chance="25"/>
+    <Item ItemId="430501" Count="1" Chance="25"/>
+    <Item ItemId="430502" Count="1" Chance="25"/>   
+  </TreasureBox>   
+  <!-- 강철길드의 선물상자 -->
+  <TreasureBox Type="RANDOM" ItemId="555581">
+    <Item ItemId="41337" Count="1" Chance="17"/>
+	<Item ItemId="41337" Count="2" Chance="17"/>
+	<Item ItemId="41337" Count="3" Chance="16"/>
+	<Item ItemId="41338" Count="1" Chance="17"/>
+	<Item ItemId="41338" Count="2" Chance="17"/>
+	<Item ItemId="41338" Count="3" Chance="16"/>
+  </TreasureBox>    
+<!-- 홍보선물상자 -->
+  <TreasureBox Type="RANDOM" ItemId="5000182">
+    <Item ItemId="40308" Count="1000000" Chance="10"/>  <!-- 아데나 -->
+	<Item ItemId="140074" Count="2" Chance="10"/> <!-- 축복 받은 갑옷 마법 주문서 -->
+	<Item ItemId="140087" Count="2" Chance="10"/> <!--축복 받은 무기 마법 주문서 -->
+	<Item ItemId="41159" Count="200" Chance="10"/> <!-- 날개 깃털 -->
+	<Item ItemId="437035" Count="1" Chance="5"/> <!-- 드래곤의 에메랄드 상자 -->
+	<Item ItemId="42029" Count="1" Chance="5"/> <!-- 오만 100층 이동 주문서 -->
+	<Item ItemId="42030" Count="1" Chance="5"/> <!-- 오만 90층 이동 주문서 -->
+	<Item ItemId="42031" Count="1" Chance="5"/> <!-- 오만 80층 이동 주문서 -->
+	<Item ItemId="42032" Count="1" Chance="5"/> <!-- 오만 70층 이동 주문서 -->
+	<Item ItemId="42033" Count="1" Chance="5"/> <!-- 오만 60층 이동 주문서 -->
+	<Item ItemId="42035" Count="1" Chance="5"/> <!-- 오만 50층 이동 주문서 -->
+	<Item ItemId="435000" Count="5" Chance="2"/> <!-- 할로윈 호박파이 -->
+	<Item ItemId="40024" Count="1000" Chance="2"/> <!-- 고대의 강력 체력 회복제 -->
+	<Item ItemId="40043" Count="10" Chance="2"/> <!-- 토끼의 간 -->
+	<Item ItemId="5000212" Count="2" Chance="2"/> <!-- 코마 버프 주문서 -->
+	<Item ItemId="41247" Count="1" Chance="0.5"/> <!-- 아르카의 마법 주머니 (인형주머니) -->
+	<Item ItemId="5000219" Count="5" Chance="0.2"/> <!-- 카운터 배리어 주문서 -->
+	<Item ItemId="41948" Count="5" Chance="0.2"/> <!-- 이뮨 주문서 -->
+	<Item ItemId="41957" Count="5" Chance="0.2"/> <!-- 디스 주문서 -->
+	<Item ItemId="467009" Count="1" Chance="0.5"/> <!-- 캐릭명 변경 주문서 -->
+	<Item ItemId="40445" Count="1" Chance="0.1"/> <!-- 블랙 미스릴 판금 -->
+	<Item ItemId="40137" Count="100" Chance="3"/> <!-- 6연발 폭죽 -->
+	<Item ItemId="40324" Count="2" Chance="0.5"/> <!-- 암황석 -->
+	<Item ItemId="40722" Count="5" Chance="0.5"/> <!-- 금호박 -->
+	<Item ItemId="40858" Count="1" Chance="2"/> <!-- 술-->
+	<Item ItemId="40889" Count="20" Chance="0.5"/> <!-- 카운터 매직 주문서 -->
+	<Item ItemId="40906" Count="2" Chance="1"/> <!-- 결혼반지(다이아몬드) -->
+	<Item ItemId="41011" Count="1" Chance="0.3"/> <!-- 봉인된 역사서 1장 -->
+	<Item ItemId="41149" Count="1" Chance="0.3"/> <!-- 소울 오브 프레임 -->
+	<Item ItemId="41153" Count="1" Chance="0.3"/> <!-- 스트라이커 게일 -->
+	<Item ItemId="41254" Count="1" Chance="0.3"/> <!-- 승리의 인장 -->
+	<Item ItemId="41251" Count="5" Chance="0.3"/> <!-- 해골성배 -->
+	<Item ItemId="41252" Count="5" Chance="0.3"/> <!-- 진귀한 거북이 -->
+	<Item ItemId="41253" Count="1" Chance="0.3"/> <!-- 왕궁 요리사의 향신료 -->
+	<Item ItemId="100903" Count="1" Chance="0.1"/> <!-- 상급 캐릭터 교환표 -->
+	<Item ItemId="433003" Count="5" Chance="0.3"/> <!-- 하급 열린 오시리스의 보물상자 -->
+	<Item ItemId="433007" Count="5" Chance="0.3"/> <!-- 상급 열린 오시리스의 보물상자 -->
+	<Item ItemId="436017" Count="10" Chance="0.3"/> <!-- 환상의 크러스트 시안 집게발 구이 -->
+	<Item ItemId="436019" Count="10" Chance="0.3"/> <!-- 환상의 코카트리스 스테이크 -->
+	<Item ItemId="436021" Count="10" Chance="0.3"/> <!-- 환상의 레서 드래곤 날개 꼬치 -->
+	<Item ItemId="436022" Count="10" Chance="0.3"/> <!-- 환상의 드레이크 구이 -->
+	<Item ItemId="436024" Count="10" Chance="0.3"/> <!-- 환상의 바실리스크 알스프 -->
+	<Item ItemId="437001" Count="1" Chance="0.2"/> <!-- 성별 전환 물약 -->
+	<Item ItemId="437004" Count="5" Chance="0.3"/> <!-- 전투 강화의 주문서 -->
+	<Item ItemId="437031" Count="5" Chance="0.3"/> <!-- 운세쪽지 (대박) -->
+	<Item ItemId="3500067" Count="1" Chance="0.2"/> <!-- (10번) 파우스트의 조각 -->
+	<Item ItemId="4500172" Count="5" Chance="0.3"/> <!-- 80 데스나이트 변신 -->
+	<Item ItemId="4500173" Count="5" Chance="0.3"/> <!-- 80 다크엘프 변신 -->
+	<Item ItemId="5000150" Count="1" Chance="0.05"/> <!-- 마법서 (아바타) -->
+	<Item ItemId="5000152" Count="1" Chance="0.05"/> <!-- 마법서 (디바인 새크리파이스) -->
+	<Item ItemId="5000182" Count="2" Chance="0.8"/> <!-- 홍보 상자 -->
+	<Item ItemId="5000218" Count="1" Chance="0.5"/> <!-- 기란성 점령 기념품 -->
+	<Item ItemId="5000220" Count="1" Chance="0.5"/> <!-- 기본 악세 지급 패키지 -->
+  </TreasureBox>   
+<!-- 시공의 항아리 -->
+<TreasureBox Type="SPECIFIC" ItemId="500067">		
+	<Item ItemId="500068" Count="2" />
+        </TreasureBox>
+</TreasureBoxList>

@@ -1,0 +1,2 @@
+@java -server -Xmx4336m -Xms4336m -XX:NewSize=256m -XX:MaxNewSize=512m -XX:PermSize=256m -XX:MaxPermSize=512m -XX:SurvivorRatio=2 -XX:+UseParNewGC -Xnoclassgc -cp  l1jserver.jar;lib\xmlapi;lib\c3p0-0.9.1.2.jar;lib\mysql-connector-java-5.1.7-bin.jar;lib\javolution.jar;lib\JTattoo.jar server.manager.eva
+@pause
